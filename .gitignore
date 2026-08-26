@@ -1,0 +1,18 @@
+# Local source materials
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.djvu
+
+# OS and editor artifacts
+.DS_Store
+*.swp
+*.swo
+*.tmp
+*.bak
+*~
+
+# Local scratch space
+.derivon/tmp/
