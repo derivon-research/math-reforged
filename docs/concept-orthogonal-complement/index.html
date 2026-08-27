@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>正交补</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.18.0/dist/katex.min.css" crossorigin="anonymous">
+  <style>
+    :root { color: #202422; background: #fff; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
+    body { max-width: 820px; margin: 0 auto; padding: 32px; line-height: 1.7; }
+    h1, h2, h3 { line-height: 1.3; }
+    code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+    pre { overflow: auto; padding: 12px; background: #f4f5f2; }
+    blockquote { margin-left: 0; padding-left: 14px; border-left: 3px solid #799084; color: #5d6761; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { padding: 7px 9px; border: 1px solid #d5d8d3; text-align: left; }
+    img { max-width: 100%; }
+    .katex-display { overflow-x: auto; overflow-y: hidden; padding: 4px 0; }
+    button, input, select, textarea { font: inherit; }
+  </style>
+</head>
+<body>
+<h1>正交补</h1>
+<p>内积空间中，子空间 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>U</mi></mrow><annotation encoding="application/x-tex">U</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.109em;">U</span></span></span></span> 的正交补为</p>
+<span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><msup><mi>U</mi><mo>⊥</mo></msup><mo>=</mo><mo stretchy="false">{</mo><mi>v</mi><mo>:</mo><mo stretchy="false">⟨</mo><mi>v</mi><mo separator="true">,</mo><mi>u</mi><mo stretchy="false">⟩</mo><mo>=</mo><mn>0</mn><mtext> 对所有 </mtext><mi>u</mi><mo>∈</mo><mi>U</mi><mo stretchy="false">}</mo><mi mathvariant="normal">.</mi></mrow><annotation encoding="application/x-tex">U^\perp=\{v:\langle v,u\rangle=0\text{ 对所有 }u\in U\}.</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8991em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.109em;">U</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8991em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mrel mtight">⊥</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">{</span><span class="mord mathnormal" style="margin-right:0.0359em;">v</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">:</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mopen">⟨</span><span class="mord mathnormal" style="margin-right:0.0359em;">v</span><span class="mpunct">,</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord mathnormal">u</span><span class="mclose">⟩</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.7224em;vertical-align:-0.0391em;"></span><span class="mord">0</span><span class="mord text"><span class="mord"> </span><span class="mord cjk_fallback">对所有</span><span class="mord"> </span></span><span class="mord mathnormal">u</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">∈</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:1em;vertical-align:-0.25em;"></span><span class="mord mathnormal" style="margin-right:0.109em;">U</span><span class="mclose">}</span><span class="mord">.</span></span></span></span></span>
+<p>正交补是一个子空间；正交投影要在进一步建立 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>V</mi><mo>=</mo><mi>U</mi><mo>⊕</mo><msup><mi>U</mi><mo>⊥</mo></msup></mrow><annotation encoding="application/x-tex">V=U\oplus U^\perp</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.2222em;">V</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.7667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal" style="margin-right:0.109em;">U</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">⊕</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.8491em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.109em;">U</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8491em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mrel mtight">⊥</span></span></span></span></span></span></span></span></span></span></span> 后定义。</p>
+<blockquote>
+<p>教材对应：第 6C 节，6.46-6.52。</p>
+</blockquote>
+</body>
+</html>

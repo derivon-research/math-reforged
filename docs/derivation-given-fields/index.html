@@ -20,18 +20,13 @@
   </style>
 </head>
 <body>
-<h1>从共同算术到第一个坐标模型</h1>
-<h2>空 tail 在这里意味着什么</h2>
-<p>这是一条没有前置概念的入口步骤。它不声称能从“绝对空白”证明实数、复数或
-通常算术，而是把读者已有的实数运算与指定教材 1A 节作为局部起点，建立
-后续图谱统一使用的语言。</p>
-<p>本步骤只承担四项任务：</p>
-<ol>
-<li>规定允许作为标量的数系；</li>
-<li>说明这些标量共同满足哪些运算规则；</li>
-<li>定义有限有序组与 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi mathvariant="double-struck">F</mi><mi>n</mi></msup></mrow><annotation encoding="application/x-tex">\mathbb F^n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6889em;"></span><span class="mord"><span class="mord mathbb">F</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span></span></span> ；</li>
-<li>给出 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi mathvariant="double-struck">F</mi><mi>n</mi></msup></mrow><annotation encoding="application/x-tex">\mathbb F^n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6889em;"></span><span class="mord"><span class="mord mathbb">F</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.6644em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span></span></span> 上的加法和标量乘法。</li>
-</ol>
+<h1>从数域与有限有序组构造坐标空间</h1>
+<h2>两个基础入口怎样配合</h2>
+<p>数域提供标量与算术规则，有限有序组提供有位置的有限数据结构。二者共同定义
+$\mathbb F^n$，以及逐坐标加法和标量乘法。本步骤不再把这些读者可直接掌握的
+基础概念伪装成由空前提推出的唯一入口。</p>
+<p>后文对实数、复数和有序组的说明是前提回顾；本步骤的唯一 head 是坐标空间
+$\mathbb F^n$。</p>
 <p>这里不预先调用“向量空间”。下一条推导才会从这些具体运算中提炼一般定义。</p>
 <h2>从负数开平方的障碍出发</h2>
 <p>实数中不存在平方等于 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mo>−</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">-1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.7278em;vertical-align:-0.0833em;"></span><span class="mord">−</span><span class="mord">1</span></span></span></span> 的元素。为了让这个方程可解，引入 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>i</mi></mrow><annotation encoding="application/x-tex">i</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6595em;"></span><span class="mord mathnormal">i</span></span></span></span>，要求</p>

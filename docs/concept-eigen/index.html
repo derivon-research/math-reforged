@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>特征值与特征向量</title>
+  <title>特征值</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.18.0/dist/katex.min.css" crossorigin="anonymous">
   <style>
     :root { color: #202422; background: #fff; font-family: Inter, ui-sans-serif, system-ui, sans-serif; }
@@ -20,7 +20,10 @@
   </style>
 </head>
 <body>
-<h1>特征值与特征向量</h1>
+<h1>特征值</h1>
+<blockquote>
+<p><strong>节点范围：</strong> 本节点只表示特征值。特征向量是给定算子与特征值后满足特征方程的非零向量，已经拆成独立节点。</p>
+</blockquote>
 <h2>在复杂变化中寻找最简单的方向</h2>
 <p>一个算子可能把大多数向量同时旋转、拉伸和剪切。直接追踪所有向量很困难，于是我们先找一种特殊方向：向量经过算子后仍留在原来的直线上，只是长度改变或方向反转。</p>
 <p>这样的方向像是变换内部自带的坐标轴。沿它反复应用算子非常简单：如果 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>T</mi><mi>v</mi><mo>=</mo><mi>λ</mi><mi>v</mi></mrow><annotation encoding="application/x-tex">Tv=\lambda v</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.6833em;"></span><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="mord mathnormal" style="margin-right:0.0359em;">v</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.6944em;"></span><span class="mord mathnormal">λ</span><span class="mord mathnormal" style="margin-right:0.0359em;">v</span></span></span></span>，那么 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mi>T</mi><mi>k</mi></msup><mi>v</mi><mo>=</mo><msup><mi>λ</mi><mi>k</mi></msup><mi>v</mi></mrow><annotation encoding="application/x-tex">T^kv=\lambda^kv</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="katex-base"><span class="katex-strut" style="height:0.8491em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.1389em;">T</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8491em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.0315em;">k</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0359em;">v</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="katex-base"><span class="katex-strut" style="height:0.8491em;"></span><span class="mord"><span class="mord mathnormal">λ</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8491em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="katex-sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.0315em;">k</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.0359em;">v</span></span></span></span>。这就是特征向量能帮助理解长期动力、递推数列、微分方程和对角化的原因。</p>
