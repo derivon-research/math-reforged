@@ -10,7 +10,6 @@
         "id": "foundation-fields",
         "data": {
           "document": "docs/concept-foundation-fields",
-          "format": "markdown",
           "label": "数域"
         }
       },
@@ -18,7 +17,6 @@
         "id": "vector-space",
         "data": {
           "document": "docs/concept-vector-space",
-          "format": "markdown",
           "label": "向量空间"
         }
       },
@@ -26,7 +24,6 @@
         "id": "subspace",
         "data": {
           "document": "docs/concept-subspace",
-          "format": "markdown",
           "label": "子空间"
         }
       },
@@ -34,7 +31,6 @@
         "id": "direct-sum",
         "data": {
           "document": "docs/concept-direct-sum",
-          "format": "markdown",
           "label": "直和"
         }
       },
@@ -42,7 +38,6 @@
         "id": "span",
         "data": {
           "document": "docs/concept-span",
-          "format": "markdown",
           "label": "张成"
         }
       },
@@ -50,7 +45,6 @@
         "id": "independence",
         "data": {
           "document": "docs/concept-independence",
-          "format": "markdown",
           "label": "线性无关"
         }
       },
@@ -58,7 +52,6 @@
         "id": "basis",
         "data": {
           "document": "docs/concept-basis",
-          "format": "markdown",
           "label": "基"
         }
       },
@@ -66,7 +59,6 @@
         "id": "dimension",
         "data": {
           "document": "docs/concept-dimension",
-          "format": "markdown",
           "label": "维数"
         }
       },
@@ -74,7 +66,6 @@
         "id": "linear-map",
         "data": {
           "document": "docs/concept-linear-map",
-          "format": "markdown",
           "label": "线性映射"
         }
       },
@@ -82,7 +73,6 @@
         "id": "null-range",
         "data": {
           "document": "docs/concept-null-range",
-          "format": "markdown",
           "label": "零空间"
         }
       },
@@ -90,7 +80,6 @@
         "id": "injective-surjective",
         "data": {
           "document": "docs/concept-injective-surjective",
-          "format": "markdown",
           "label": "单射"
         }
       },
@@ -98,7 +87,6 @@
         "id": "matrix",
         "data": {
           "document": "docs/concept-matrix",
-          "format": "markdown",
           "label": "线性映射的矩阵"
         }
       },
@@ -106,7 +94,6 @@
         "id": "rank",
         "data": {
           "document": "docs/concept-rank",
-          "format": "markdown",
           "label": "秩"
         }
       },
@@ -114,7 +101,6 @@
         "id": "isomorphism",
         "data": {
           "document": "docs/concept-isomorphism",
-          "format": "markdown",
           "label": "同构"
         }
       },
@@ -122,7 +108,6 @@
         "id": "quotient",
         "data": {
           "document": "docs/concept-quotient",
-          "format": "markdown",
           "label": "商空间"
         }
       },
@@ -130,7 +115,6 @@
         "id": "dual",
         "data": {
           "document": "docs/concept-dual",
-          "format": "markdown",
           "label": "对偶空间"
         }
       },
@@ -138,7 +122,6 @@
         "id": "polynomial",
         "data": {
           "document": "docs/concept-polynomial",
-          "format": "markdown",
           "label": "多项式"
         }
       },
@@ -146,7 +129,6 @@
         "id": "operator",
         "data": {
           "document": "docs/concept-operator",
-          "format": "markdown",
           "label": "算子"
         }
       },
@@ -154,7 +136,6 @@
         "id": "eigen",
         "data": {
           "document": "docs/concept-eigen",
-          "format": "markdown",
           "label": "特征值"
         }
       },
@@ -162,7 +143,6 @@
         "id": "minimal-polynomial",
         "data": {
           "document": "docs/concept-minimal-polynomial",
-          "format": "markdown",
           "label": "最小多项式"
         }
       },
@@ -170,7 +150,6 @@
         "id": "triangular-diagonal",
         "data": {
           "document": "docs/concept-triangular-diagonal",
-          "format": "markdown",
           "label": "上三角化"
         }
       },
@@ -178,7 +157,6 @@
         "id": "inner-product",
         "data": {
           "document": "docs/concept-inner-product",
-          "format": "markdown",
           "label": "内积空间"
         }
       },
@@ -186,7 +164,6 @@
         "id": "norm-orthogonal",
         "data": {
           "document": "docs/concept-norm-orthogonal",
-          "format": "markdown",
           "label": "范数"
         }
       },
@@ -194,7 +171,6 @@
         "id": "orthonormal",
         "data": {
           "document": "docs/concept-orthonormal",
-          "format": "markdown",
           "label": "规范正交基"
         }
       },
@@ -202,7 +178,6 @@
         "id": "orthogonal-projection",
         "data": {
           "document": "docs/concept-orthogonal-projection",
-          "format": "markdown",
           "label": "正交投影"
         }
       },
@@ -210,7 +185,6 @@
         "id": "adjoint",
         "data": {
           "document": "docs/concept-adjoint",
-          "format": "markdown",
           "label": "伴随"
         }
       },
@@ -218,7 +192,6 @@
         "id": "normal-selfadjoint",
         "data": {
           "document": "docs/concept-normal-selfadjoint",
-          "format": "markdown",
           "label": "正规算子"
         }
       },
@@ -226,7 +199,6 @@
         "id": "spectral-theorem",
         "data": {
           "document": "docs/concept-spectral-theorem",
-          "format": "markdown",
           "label": "谱定理"
         }
       },
@@ -234,7 +206,6 @@
         "id": "isometry-unitary",
         "data": {
           "document": "docs/concept-isometry-unitary",
-          "format": "markdown",
           "label": "等距映射"
         }
       },
@@ -242,7 +213,6 @@
         "id": "svd",
         "data": {
           "document": "docs/concept-svd",
-          "format": "markdown",
           "label": "奇异值分解"
         }
       },
@@ -250,7 +220,6 @@
         "id": "pseudoinverse",
         "data": {
           "document": "docs/concept-pseudoinverse",
-          "format": "markdown",
           "label": "伪逆"
         }
       },
@@ -258,7 +227,6 @@
         "id": "nilpotent",
         "data": {
           "document": "docs/concept-nilpotent",
-          "format": "markdown",
           "label": "幂零算子"
         }
       },
@@ -266,7 +234,6 @@
         "id": "characteristic",
         "data": {
           "document": "docs/concept-characteristic",
-          "format": "markdown",
           "label": "特征多项式"
         }
       },
@@ -274,7 +241,6 @@
         "id": "jordan",
         "data": {
           "document": "docs/concept-jordan",
-          "format": "markdown",
           "label": "若当基"
         }
       },
@@ -282,7 +248,6 @@
         "id": "trace",
         "data": {
           "document": "docs/concept-trace",
-          "format": "markdown",
           "label": "迹"
         }
       },
@@ -290,7 +255,6 @@
         "id": "bilinear",
         "data": {
           "document": "docs/concept-bilinear",
-          "format": "markdown",
           "label": "双线性型"
         }
       },
@@ -298,7 +262,6 @@
         "id": "alternating",
         "data": {
           "document": "docs/concept-alternating",
-          "format": "markdown",
           "label": "交错多重线性型"
         }
       },
@@ -306,7 +269,6 @@
         "id": "determinant",
         "data": {
           "document": "docs/concept-determinant",
-          "format": "markdown",
           "label": "行列式"
         }
       },
@@ -314,7 +276,6 @@
         "id": "tensor",
         "data": {
           "document": "docs/concept-tensor",
-          "format": "markdown",
           "label": "张量积"
         }
       },
@@ -322,7 +283,6 @@
         "id": "finite-tuple",
         "data": {
           "document": "docs/concept-finite-tuple",
-          "format": "markdown",
           "label": "有限有序组"
         }
       },
@@ -330,7 +290,6 @@
         "id": "coordinate-space",
         "data": {
           "document": "docs/concept-coordinate-space",
-          "format": "markdown",
           "label": "坐标空间"
         }
       },
@@ -338,7 +297,6 @@
         "id": "subspace-sum",
         "data": {
           "document": "docs/concept-subspace-sum",
-          "format": "markdown",
           "label": "子空间的和"
         }
       },
@@ -346,7 +304,6 @@
         "id": "linear-combination",
         "data": {
           "document": "docs/concept-linear-combination",
-          "format": "markdown",
           "label": "线性组合"
         }
       },
@@ -354,7 +311,6 @@
         "id": "finite-dimensional",
         "data": {
           "document": "docs/concept-finite-dimensional",
-          "format": "markdown",
           "label": "有限维"
         }
       },
@@ -362,7 +318,6 @@
         "id": "range",
         "data": {
           "document": "docs/concept-range",
-          "format": "markdown",
           "label": "值域"
         }
       },
@@ -370,7 +325,6 @@
         "id": "surjective",
         "data": {
           "document": "docs/concept-surjective",
-          "format": "markdown",
           "label": "满射"
         }
       },
@@ -378,7 +332,6 @@
         "id": "invertible",
         "data": {
           "document": "docs/concept-invertible",
-          "format": "markdown",
           "label": "可逆线性映射"
         }
       },
@@ -386,7 +339,6 @@
         "id": "rank-nullity",
         "data": {
           "document": "docs/concept-rank-nullity",
-          "format": "markdown",
           "label": "线性映射基本定理"
         }
       },
@@ -394,7 +346,6 @@
         "id": "change-of-basis",
         "data": {
           "document": "docs/concept-change-of-basis",
-          "format": "markdown",
           "label": "换基"
         }
       },
@@ -402,7 +353,6 @@
         "id": "dual-map",
         "data": {
           "document": "docs/concept-dual-map",
-          "format": "markdown",
           "label": "对偶映射"
         }
       },
@@ -410,7 +360,6 @@
         "id": "polynomial-zero",
         "data": {
           "document": "docs/concept-polynomial-zero",
-          "format": "markdown",
           "label": "多项式的零点"
         }
       },
@@ -418,7 +367,6 @@
         "id": "invariant-subspace",
         "data": {
           "document": "docs/concept-invariant-subspace",
-          "format": "markdown",
           "label": "不变子空间"
         }
       },
@@ -426,7 +374,6 @@
         "id": "eigenvector",
         "data": {
           "document": "docs/concept-eigenvector",
-          "format": "markdown",
           "label": "特征向量"
         }
       },
@@ -434,7 +381,6 @@
         "id": "diagonalization",
         "data": {
           "document": "docs/concept-diagonalization",
-          "format": "markdown",
           "label": "对角化"
         }
       },
@@ -442,7 +388,6 @@
         "id": "orthogonality",
         "data": {
           "document": "docs/concept-orthogonality",
-          "format": "markdown",
           "label": "正交"
         }
       },
@@ -450,7 +395,6 @@
         "id": "orthogonal-complement",
         "data": {
           "document": "docs/concept-orthogonal-complement",
-          "format": "markdown",
           "label": "正交补"
         }
       },
@@ -458,7 +402,6 @@
         "id": "self-adjoint",
         "data": {
           "document": "docs/concept-self-adjoint",
-          "format": "markdown",
           "label": "自伴算子"
         }
       },
@@ -466,7 +409,6 @@
         "id": "positive-operator",
         "data": {
           "document": "docs/concept-positive-operator",
-          "format": "markdown",
           "label": "正算子"
         }
       },
@@ -474,7 +416,6 @@
         "id": "unitary-operator",
         "data": {
           "document": "docs/concept-unitary-operator",
-          "format": "markdown",
           "label": "幺正算子"
         }
       },
@@ -482,7 +423,6 @@
         "id": "singular-value",
         "data": {
           "document": "docs/concept-singular-value",
-          "format": "markdown",
           "label": "奇异值"
         }
       },
@@ -490,7 +430,6 @@
         "id": "generalized-eigenspace",
         "data": {
           "document": "docs/concept-generalized-eigenspace",
-          "format": "markdown",
           "label": "广义特征空间"
         }
       },
@@ -498,7 +437,6 @@
         "id": "cayley-hamilton",
         "data": {
           "document": "docs/concept-cayley-hamilton",
-          "format": "markdown",
           "label": "Cayley-Hamilton 定理"
         }
       },
@@ -506,7 +444,6 @@
         "id": "jordan-form",
         "data": {
           "document": "docs/concept-jordan-form",
-          "format": "markdown",
           "label": "若当型"
         }
       },
@@ -514,7 +451,6 @@
         "id": "quadratic-form",
         "data": {
           "document": "docs/concept-quadratic-form",
-          "format": "markdown",
           "label": "二次型"
         }
       },
@@ -522,7 +458,6 @@
         "id": "dot-product",
         "data": {
           "document": "docs/concept-dot-product",
-          "format": "markdown",
           "label": "点积"
         }
       },
@@ -530,7 +465,6 @@
         "id": "euclidean-norm",
         "data": {
           "document": "docs/concept-euclidean-norm",
-          "format": "markdown",
           "label": "欧几里得范数"
         }
       },
@@ -538,7 +472,6 @@
         "id": "euclidean-unit-vector",
         "data": {
           "document": "docs/concept-euclidean-unit-vector",
-          "format": "markdown",
           "label": "欧几里得单位向量"
         }
       },
@@ -546,7 +479,6 @@
         "id": "euclidean-orthogonality",
         "data": {
           "document": "docs/concept-euclidean-orthogonality",
-          "format": "markdown",
           "label": "欧几里得正交"
         }
       },
@@ -554,7 +486,6 @@
         "id": "euclidean-vector-angle",
         "data": {
           "document": "docs/concept-euclidean-vector-angle",
-          "format": "markdown",
           "label": "欧几里得向量夹角"
         }
       },
@@ -562,7 +493,6 @@
         "id": "cauchy-schwarz-rn",
         "data": {
           "document": "docs/concept-cauchy-schwarz-rn",
-          "format": "markdown",
           "label": "R^n 中的 Cauchy-Schwarz 不等式"
         }
       },
@@ -570,7 +500,6 @@
         "id": "euclidean-triangle-inequality",
         "data": {
           "document": "docs/concept-euclidean-triangle-inequality",
-          "format": "markdown",
           "label": "欧几里得三角不等式"
         }
       },
@@ -578,7 +507,6 @@
         "id": "matrix-array",
         "data": {
           "document": "docs/concept-matrix-array",
-          "format": "markdown",
           "label": "矩阵"
         }
       },
@@ -586,7 +514,6 @@
         "id": "matrix-vector-product",
         "data": {
           "document": "docs/concept-matrix-vector-product",
-          "format": "markdown",
           "label": "矩阵-向量乘积"
         }
       },
@@ -594,7 +521,6 @@
         "id": "linear-system",
         "data": {
           "document": "docs/concept-linear-system",
-          "format": "markdown",
           "label": "线性方程组"
         }
       },
@@ -602,7 +528,6 @@
         "id": "homogeneous-linear-system",
         "data": {
           "document": "docs/concept-homogeneous-linear-system",
-          "format": "markdown",
           "label": "齐次线性方程组"
         }
       },
@@ -610,7 +535,6 @@
         "id": "inverse-matrix",
         "data": {
           "document": "docs/concept-inverse-matrix",
-          "format": "markdown",
           "label": "逆矩阵"
         }
       },
@@ -618,7 +542,6 @@
         "id": "invertible-matrix",
         "data": {
           "document": "docs/concept-invertible-matrix",
-          "format": "markdown",
           "label": "可逆矩阵"
         }
       },
@@ -626,7 +549,6 @@
         "id": "singular-matrix",
         "data": {
           "document": "docs/concept-singular-matrix",
-          "format": "markdown",
           "label": "奇异矩阵"
         }
       },
@@ -634,7 +556,6 @@
         "id": "identity-matrix",
         "data": {
           "document": "docs/concept-identity-matrix",
-          "format": "markdown",
           "label": "单位矩阵"
         }
       },
@@ -642,7 +563,6 @@
         "id": "linear-system-consistency",
         "data": {
           "document": "docs/concept-linear-system-consistency",
-          "format": "markdown",
           "label": "线性方程组相容性"
         }
       },
@@ -650,7 +570,6 @@
         "id": "row-operation",
         "data": {
           "document": "docs/concept-row-operation",
-          "format": "markdown",
           "label": "初等行操作"
         }
       },
@@ -658,7 +577,6 @@
         "id": "pivot",
         "data": {
           "document": "docs/concept-pivot",
-          "format": "markdown",
           "label": "主元"
         }
       },
@@ -666,7 +584,6 @@
         "id": "gaussian-elimination",
         "data": {
           "document": "docs/concept-gaussian-elimination",
-          "format": "markdown",
           "label": "Gaussian 消元"
         }
       },
@@ -674,7 +591,6 @@
         "id": "upper-triangular-matrix",
         "data": {
           "document": "docs/concept-upper-triangular-matrix",
-          "format": "markdown",
           "label": "上三角矩阵"
         }
       },
@@ -682,7 +598,6 @@
         "id": "lower-triangular-matrix",
         "data": {
           "document": "docs/concept-lower-triangular-matrix",
-          "format": "markdown",
           "label": "下三角矩阵"
         }
       },
@@ -690,7 +605,6 @@
         "id": "back-substitution",
         "data": {
           "document": "docs/concept-back-substitution",
-          "format": "markdown",
           "label": "回代"
         }
       },
@@ -698,7 +612,6 @@
         "id": "forward-substitution",
         "data": {
           "document": "docs/concept-forward-substitution",
-          "format": "markdown",
           "label": "前代"
         }
       },
@@ -706,7 +619,6 @@
         "id": "elimination-matrix",
         "data": {
           "document": "docs/concept-elimination-matrix",
-          "format": "markdown",
           "label": "消元矩阵"
         }
       },
@@ -714,7 +626,6 @@
         "id": "permutation-matrix",
         "data": {
           "document": "docs/concept-permutation-matrix",
-          "format": "markdown",
           "label": "置换矩阵"
         }
       },
@@ -722,7 +633,6 @@
         "id": "augmented-matrix",
         "data": {
           "document": "docs/concept-augmented-matrix",
-          "format": "markdown",
           "label": "增广矩阵"
         }
       },
@@ -730,7 +640,6 @@
         "id": "matrix-addition",
         "data": {
           "document": "docs/concept-matrix-addition",
-          "format": "markdown",
           "label": "矩阵加法"
         }
       },
@@ -738,7 +647,6 @@
         "id": "matrix-scalar-multiplication",
         "data": {
           "document": "docs/concept-matrix-scalar-multiplication",
-          "format": "markdown",
           "label": "矩阵数乘"
         }
       },
@@ -746,7 +654,6 @@
         "id": "matrix-multiplication",
         "data": {
           "document": "docs/concept-matrix-multiplication",
-          "format": "markdown",
           "label": "矩阵乘法"
         }
       },
@@ -754,7 +661,6 @@
         "id": "outer-product",
         "data": {
           "document": "docs/concept-outer-product",
-          "format": "markdown",
           "label": "外积"
         }
       },
@@ -762,7 +668,6 @@
         "id": "matrix-power",
         "data": {
           "document": "docs/concept-matrix-power",
-          "format": "markdown",
           "label": "矩阵幂"
         }
       },
@@ -770,7 +675,6 @@
         "id": "block-matrix",
         "data": {
           "document": "docs/concept-block-matrix",
-          "format": "markdown",
           "label": "分块矩阵"
         }
       },
@@ -778,7 +682,6 @@
         "id": "schur-complement",
         "data": {
           "document": "docs/concept-schur-complement",
-          "format": "markdown",
           "label": "Schur 补"
         }
       },
@@ -786,7 +689,6 @@
         "id": "gauss-jordan-elimination",
         "data": {
           "document": "docs/concept-gauss-jordan-elimination",
-          "format": "markdown",
           "label": "Gauss-Jordan 消元"
         }
       },
@@ -794,7 +696,6 @@
         "id": "inverse-product-rule",
         "data": {
           "document": "docs/concept-inverse-product-rule",
-          "format": "markdown",
           "label": "乘积求逆逆序律"
         }
       },
@@ -802,7 +703,6 @@
         "id": "band-matrix",
         "data": {
           "document": "docs/concept-band-matrix",
-          "format": "markdown",
           "label": "带状矩阵"
         }
       },
@@ -810,7 +710,6 @@
         "id": "diagonally-dominant-matrix",
         "data": {
           "document": "docs/concept-diagonally-dominant-matrix",
-          "format": "markdown",
           "label": "严格行对角占优矩阵"
         }
       },
@@ -818,7 +717,6 @@
         "id": "lu-factorization",
         "data": {
           "document": "docs/concept-lu-factorization",
-          "format": "markdown",
           "label": "LU 分解"
         }
       },
@@ -826,7 +724,6 @@
         "id": "ldu-factorization",
         "data": {
           "document": "docs/concept-ldu-factorization",
-          "format": "markdown",
           "label": "LDU 分解"
         }
       },
@@ -834,7 +731,6 @@
         "id": "matrix-transpose",
         "data": {
           "document": "docs/concept-matrix-transpose",
-          "format": "markdown",
           "label": "矩阵转置"
         }
       },
@@ -842,7 +738,6 @@
         "id": "transpose-product-rule",
         "data": {
           "document": "docs/concept-transpose-product-rule",
-          "format": "markdown",
           "label": "乘积转置逆序律"
         }
       },
@@ -850,7 +745,6 @@
         "id": "transpose-adjoint-identity",
         "data": {
           "document": "docs/concept-transpose-adjoint-identity",
-          "format": "markdown",
           "label": "转置的点积迁移恒等式"
         }
       },
@@ -858,7 +752,6 @@
         "id": "symmetric-matrix",
         "data": {
           "document": "docs/concept-symmetric-matrix",
-          "format": "markdown",
           "label": "对称矩阵"
         }
       },
@@ -866,7 +759,6 @@
         "id": "ldlt-factorization",
         "data": {
           "document": "docs/concept-ldlt-factorization",
-          "format": "markdown",
           "label": "LDLT 分解"
         }
       },
@@ -874,7 +766,6 @@
         "id": "orthogonal-matrix",
         "data": {
           "document": "docs/concept-orthogonal-matrix",
-          "format": "markdown",
           "label": "正交矩阵"
         }
       },
@@ -882,7 +773,6 @@
         "id": "pivoted-lu-factorization",
         "data": {
           "document": "docs/concept-pivoted-lu-factorization",
-          "format": "markdown",
           "label": "带行置换的 LU 分解"
         }
       },
@@ -890,7 +780,6 @@
         "id": "column-space",
         "data": {
           "document": "docs/concept-column-space",
-          "format": "markdown",
           "label": "矩阵列空间"
         }
       },
@@ -898,7 +787,6 @@
         "id": "row-space",
         "data": {
           "document": "docs/concept-row-space",
-          "format": "markdown",
           "label": "矩阵行空间"
         }
       },
@@ -906,7 +794,6 @@
         "id": "matrix-nullspace",
         "data": {
           "document": "docs/concept-matrix-nullspace",
-          "format": "markdown",
           "label": "矩阵零空间"
         }
       },
@@ -914,7 +801,6 @@
         "id": "left-nullspace",
         "data": {
           "document": "docs/concept-left-nullspace",
-          "format": "markdown",
           "label": "左零空间"
         }
       },
@@ -922,7 +808,6 @@
         "id": "row-echelon-form",
         "data": {
           "document": "docs/concept-row-echelon-form",
-          "format": "markdown",
           "label": "行阶梯形"
         }
       },
@@ -930,7 +815,6 @@
         "id": "reduced-row-echelon-form",
         "data": {
           "document": "docs/concept-reduced-row-echelon-form",
-          "format": "markdown",
           "label": "简化行阶梯形"
         }
       },
@@ -938,7 +822,6 @@
         "id": "pivot-column",
         "data": {
           "document": "docs/concept-pivot-column",
-          "format": "markdown",
           "label": "主元列"
         }
       },
@@ -946,7 +829,6 @@
         "id": "free-variable",
         "data": {
           "document": "docs/concept-free-variable",
-          "format": "markdown",
           "label": "自由变量"
         }
       },
@@ -954,7 +836,6 @@
         "id": "special-solution",
         "data": {
           "document": "docs/concept-special-solution",
-          "format": "markdown",
           "label": "齐次方程特殊解"
         }
       },
@@ -962,7 +843,6 @@
         "id": "particular-solution",
         "data": {
           "document": "docs/concept-particular-solution",
-          "format": "markdown",
           "label": "特解"
         }
       },
@@ -970,7 +850,6 @@
         "id": "complete-linear-system-solution",
         "data": {
           "document": "docs/concept-complete-linear-system-solution",
-          "format": "markdown",
           "label": "线性方程组完整解"
         }
       },
@@ -978,7 +857,6 @@
         "id": "full-column-rank",
         "data": {
           "document": "docs/concept-full-column-rank",
-          "format": "markdown",
           "label": "满列秩"
         }
       },
@@ -986,7 +864,6 @@
         "id": "full-row-rank",
         "data": {
           "document": "docs/concept-full-row-rank",
-          "format": "markdown",
           "label": "满行秩"
         }
       },
@@ -994,7 +871,6 @@
         "id": "column-space-solvability",
         "data": {
           "document": "docs/concept-column-space-solvability",
-          "format": "markdown",
           "label": "列空间相容判据"
         }
       },
@@ -1002,7 +878,6 @@
         "id": "pivot-column-basis-theorem",
         "data": {
           "document": "docs/concept-pivot-column-basis-theorem",
-          "format": "markdown",
           "label": "主元列基定理"
         }
       },
@@ -1010,7 +885,6 @@
         "id": "row-space-basis-theorem",
         "data": {
           "document": "docs/concept-row-space-basis-theorem",
-          "format": "markdown",
           "label": "非零 RREF 行基定理"
         }
       },
@@ -1018,7 +892,6 @@
         "id": "nullspace-basis-theorem",
         "data": {
           "document": "docs/concept-nullspace-basis-theorem",
-          "format": "markdown",
           "label": "特殊解零空间基定理"
         }
       },
@@ -1026,7 +899,6 @@
         "id": "left-nullspace-basis-theorem",
         "data": {
           "document": "docs/concept-left-nullspace-basis-theorem",
-          "format": "markdown",
           "label": "消元记录的左零空间基定理"
         }
       },
@@ -1034,7 +906,6 @@
         "id": "fundamental-subspaces-dimensions",
         "data": {
           "document": "docs/concept-fundamental-subspaces-dimensions",
-          "format": "markdown",
           "label": "四个基本子空间维数定理"
         }
       },
@@ -1042,7 +913,6 @@
         "id": "rank-one-matrix",
         "data": {
           "document": "docs/concept-rank-one-matrix",
-          "format": "markdown",
           "label": "秩一矩阵"
         }
       },
@@ -1050,7 +920,6 @@
         "id": "rank-factorization",
         "data": {
           "document": "docs/concept-rank-factorization",
-          "format": "markdown",
           "label": "秩分解"
         }
       },
@@ -1058,7 +927,6 @@
         "id": "matrix-product-rank-inequality",
         "data": {
           "document": "docs/concept-matrix-product-rank-inequality",
-          "format": "markdown",
           "label": "矩阵乘积秩不等式"
         }
       },
@@ -1066,7 +934,6 @@
         "id": "basis-cardinality-theorem",
         "data": {
           "document": "docs/concept-basis-cardinality-theorem",
-          "format": "markdown",
           "label": "基等势定理"
         }
       },
@@ -1074,7 +941,6 @@
         "id": "row-column-rank-theorem",
         "data": {
           "document": "docs/concept-row-column-rank-theorem",
-          "format": "markdown",
           "label": "行秩等于列秩"
         }
       },
@@ -1082,7 +948,6 @@
         "id": "left-nullity-theorem",
         "data": {
           "document": "docs/concept-left-nullity-theorem",
-          "format": "markdown",
           "label": "左零度公式"
         }
       },
@@ -1090,7 +955,6 @@
         "id": "orthogonal-subspaces",
         "data": {
           "document": "docs/concept-orthogonal-subspaces",
-          "format": "markdown",
           "label": "正交子空间"
         }
       },
@@ -1098,7 +962,6 @@
         "id": "fundamental-subspaces-orthogonality",
         "data": {
           "document": "docs/concept-fundamental-subspaces-orthogonality",
-          "format": "markdown",
           "label": "基本子空间正交定理"
         }
       },
@@ -1106,7 +969,6 @@
         "id": "orthogonal-decomposition",
         "data": {
           "document": "docs/concept-orthogonal-decomposition",
-          "format": "markdown",
           "label": "正交分解"
         }
       },
@@ -1114,7 +976,6 @@
         "id": "fredholm-alternative",
         "data": {
           "document": "docs/concept-fredholm-alternative",
-          "format": "markdown",
           "label": "Fredholm 二择一"
         }
       },
@@ -1122,7 +983,6 @@
         "id": "projection-matrix",
         "data": {
           "document": "docs/concept-projection-matrix",
-          "format": "markdown",
           "label": "正交投影矩阵"
         }
       },
@@ -1130,7 +990,6 @@
         "id": "least-squares-residual",
         "data": {
           "document": "docs/concept-least-squares-residual",
-          "format": "markdown",
           "label": "最小二乘残差"
         }
       },
@@ -1138,7 +997,6 @@
         "id": "ata-nullspace-equivalence",
         "data": {
           "document": "docs/concept-ata-nullspace-equivalence",
-          "format": "markdown",
           "label": "A^T A 与 A 的零空间相同"
         }
       },
@@ -1146,7 +1004,6 @@
         "id": "normal-equations",
         "data": {
           "document": "docs/concept-normal-equations",
-          "format": "markdown",
           "label": "正规方程"
         }
       },
@@ -1154,7 +1011,6 @@
         "id": "least-squares-solution",
         "data": {
           "document": "docs/concept-least-squares-solution",
-          "format": "markdown",
           "label": "最小二乘解"
         }
       },
@@ -1162,7 +1018,6 @@
         "id": "linear-least-squares-fit",
         "data": {
           "document": "docs/concept-linear-least-squares-fit",
-          "format": "markdown",
           "label": "线性最小二乘拟合"
         }
       },
@@ -1170,7 +1025,6 @@
         "id": "orthonormal-columns",
         "data": {
           "document": "docs/concept-orthonormal-columns",
-          "format": "markdown",
           "label": "规范正交列"
         }
       },
@@ -1178,7 +1032,6 @@
         "id": "gram-schmidt-process",
         "data": {
           "document": "docs/concept-gram-schmidt-process",
-          "format": "markdown",
           "label": "Gram-Schmidt 过程"
         }
       },
@@ -1186,7 +1039,6 @@
         "id": "qr-factorization",
         "data": {
           "document": "docs/concept-qr-factorization",
-          "format": "markdown",
           "label": "QR 分解"
         }
       },
@@ -1194,7 +1046,6 @@
         "id": "qr-least-squares",
         "data": {
           "document": "docs/concept-qr-least-squares",
-          "format": "markdown",
           "label": "QR 最小二乘求解"
         }
       },
@@ -1202,7 +1053,6 @@
         "id": "reflection-matrix",
         "data": {
           "document": "docs/concept-reflection-matrix",
-          "format": "markdown",
           "label": "Householder 反射矩阵"
         }
       },
@@ -1210,7 +1060,6 @@
         "id": "determinant-axioms",
         "data": {
           "document": "docs/concept-determinant-axioms",
-          "format": "markdown",
           "label": "行列式三条刻画性质"
         }
       },
@@ -1218,7 +1067,6 @@
         "id": "determinant-pivot-formula",
         "data": {
           "document": "docs/concept-determinant-pivot-formula",
-          "format": "markdown",
           "label": "行列式主元公式"
         }
       },
@@ -1226,7 +1074,6 @@
         "id": "determinant-invertibility",
         "data": {
           "document": "docs/concept-determinant-invertibility",
-          "format": "markdown",
           "label": "行列式可逆判据"
         }
       },
@@ -1234,7 +1081,6 @@
         "id": "determinant-product-rule",
         "data": {
           "document": "docs/concept-determinant-product-rule",
-          "format": "markdown",
           "label": "行列式乘法公式"
         }
       },
@@ -1242,7 +1088,6 @@
         "id": "determinant-transpose-rule",
         "data": {
           "document": "docs/concept-determinant-transpose-rule",
-          "format": "markdown",
           "label": "转置保持行列式"
         }
       },
@@ -1250,7 +1095,6 @@
         "id": "permutation-parity",
         "data": {
           "document": "docs/concept-permutation-parity",
-          "format": "markdown",
           "label": "置换奇偶性"
         }
       },
@@ -1258,7 +1102,6 @@
         "id": "leibniz-determinant-formula",
         "data": {
           "document": "docs/concept-leibniz-determinant-formula",
-          "format": "markdown",
           "label": "Leibniz 行列式公式"
         }
       },
@@ -1266,7 +1109,6 @@
         "id": "matrix-cofactor",
         "data": {
           "document": "docs/concept-matrix-cofactor",
-          "format": "markdown",
           "label": "矩阵余子式"
         }
       },
@@ -1274,7 +1116,6 @@
         "id": "cofactor-expansion",
         "data": {
           "document": "docs/concept-cofactor-expansion",
-          "format": "markdown",
           "label": "余子式展开"
         }
       },
@@ -1282,7 +1123,6 @@
         "id": "adjugate-matrix",
         "data": {
           "document": "docs/concept-adjugate-matrix",
-          "format": "markdown",
           "label": "伴随矩阵"
         }
       },
@@ -1290,7 +1130,6 @@
         "id": "cramers-rule",
         "data": {
           "document": "docs/concept-cramers-rule",
-          "format": "markdown",
           "label": "Cramer 法则"
         }
       },
@@ -1298,7 +1137,6 @@
         "id": "determinant-volume",
         "data": {
           "document": "docs/concept-determinant-volume",
-          "format": "markdown",
           "label": "行列式体积"
         }
       },
@@ -1306,7 +1144,6 @@
         "id": "cross-product",
         "data": {
           "document": "docs/concept-cross-product",
-          "format": "markdown",
           "label": "三维向量叉积"
         }
       },
@@ -1314,7 +1151,6 @@
         "id": "scalar-triple-product",
         "data": {
           "document": "docs/concept-scalar-triple-product",
-          "format": "markdown",
           "label": "标量三重积"
         }
       },
@@ -1322,7 +1158,6 @@
         "id": "eigenspace",
         "data": {
           "document": "docs/concept-eigenspace",
-          "format": "markdown",
           "label": "特征空间"
         }
       },
@@ -1330,7 +1165,6 @@
         "id": "characteristic-equation",
         "data": {
           "document": "docs/concept-characteristic-equation",
-          "format": "markdown",
           "label": "特征方程"
         }
       },
@@ -1338,7 +1172,6 @@
         "id": "eigenvalue-spectral-mapping",
         "data": {
           "document": "docs/concept-eigenvalue-spectral-mapping",
-          "format": "markdown",
           "label": "特征值谱映射"
         }
       },
@@ -1346,7 +1179,6 @@
         "id": "gershgorin-circle-theorem",
         "data": {
           "document": "docs/concept-gershgorin-circle-theorem",
-          "format": "markdown",
           "label": "Gershgorin 圆盘定理"
         }
       },
@@ -1354,7 +1186,6 @@
         "id": "diagonalizability-criterion",
         "data": {
           "document": "docs/concept-diagonalizability-criterion",
-          "format": "markdown",
           "label": "矩阵可对角化判据"
         }
       },
@@ -1362,7 +1193,6 @@
         "id": "similar-matrices",
         "data": {
           "document": "docs/concept-similar-matrices",
-          "format": "markdown",
           "label": "相似矩阵"
         }
       },
@@ -1370,7 +1200,6 @@
         "id": "algebraic-multiplicity",
         "data": {
           "document": "docs/concept-algebraic-multiplicity",
-          "format": "markdown",
           "label": "特征值代数重数"
         }
       },
@@ -1378,7 +1207,6 @@
         "id": "geometric-multiplicity",
         "data": {
           "document": "docs/concept-geometric-multiplicity",
-          "format": "markdown",
           "label": "特征值几何重数"
         }
       },
@@ -1386,7 +1214,6 @@
         "id": "discrete-linear-dynamics",
         "data": {
           "document": "docs/concept-discrete-linear-dynamics",
-          "format": "markdown",
           "label": "离散线性动力系统"
         }
       },
@@ -1394,7 +1221,6 @@
         "id": "continuous-linear-system",
         "data": {
           "document": "docs/concept-continuous-linear-system",
-          "format": "markdown",
           "label": "常系数连续线性系统"
         }
       },
@@ -1402,7 +1228,6 @@
         "id": "matrix-exponential",
         "data": {
           "document": "docs/concept-matrix-exponential",
-          "format": "markdown",
           "label": "矩阵指数"
         }
       },
@@ -1410,7 +1235,6 @@
         "id": "continuous-stability",
         "data": {
           "document": "docs/concept-continuous-stability",
-          "format": "markdown",
           "label": "连续时间线性稳定性"
         }
       },
@@ -1418,7 +1242,6 @@
         "id": "schur-decomposition",
         "data": {
           "document": "docs/concept-schur-decomposition",
-          "format": "markdown",
           "label": "Schur 分解"
         }
       },
@@ -1426,7 +1249,6 @@
         "id": "positive-definite-matrix",
         "data": {
           "document": "docs/concept-positive-definite-matrix",
-          "format": "markdown",
           "label": "正定矩阵"
         }
       },
@@ -1434,7 +1256,6 @@
         "id": "positive-semidefinite-matrix",
         "data": {
           "document": "docs/concept-positive-semidefinite-matrix",
-          "format": "markdown",
           "label": "半正定矩阵"
         }
       },
@@ -1442,7 +1263,6 @@
         "id": "positive-definite-equivalences",
         "data": {
           "document": "docs/concept-positive-definite-equivalences",
-          "format": "markdown",
           "label": "正定性五项等价"
         }
       },
@@ -1450,7 +1270,6 @@
         "id": "cholesky-factorization",
         "data": {
           "document": "docs/concept-cholesky-factorization",
-          "format": "markdown",
           "label": "Cholesky 分解"
         }
       },
@@ -1458,7 +1277,6 @@
         "id": "rayleigh-quotient",
         "data": {
           "document": "docs/concept-rayleigh-quotient",
-          "format": "markdown",
           "label": "Rayleigh 商"
         }
       },
@@ -1466,7 +1284,6 @@
         "id": "right-singular-vector",
         "data": {
           "document": "docs/concept-right-singular-vector",
-          "format": "markdown",
           "label": "右奇异向量"
         }
       },
@@ -1474,7 +1291,6 @@
         "id": "left-singular-vector",
         "data": {
           "document": "docs/concept-left-singular-vector",
-          "format": "markdown",
           "label": "左奇异向量"
         }
       },
@@ -1482,7 +1298,6 @@
         "id": "svd-subspace-bases",
         "data": {
           "document": "docs/concept-svd-subspace-bases",
-          "format": "markdown",
           "label": "SVD 的基本子空间基"
         }
       },
@@ -1490,7 +1305,6 @@
         "id": "truncated-svd",
         "data": {
           "document": "docs/concept-truncated-svd",
-          "format": "markdown",
           "label": "截断 SVD"
         }
       },
@@ -1498,7 +1312,6 @@
         "id": "effective-rank",
         "data": {
           "document": "docs/concept-effective-rank",
-          "format": "markdown",
           "label": "有效秩"
         }
       },
@@ -1506,7 +1319,6 @@
         "id": "eckart-young-mirsky",
         "data": {
           "document": "docs/concept-eckart-young-mirsky",
-          "format": "markdown",
           "label": "Eckart-Young-Mirsky 定理"
         }
       },
@@ -1514,7 +1326,6 @@
         "id": "matrix-2-norm",
         "data": {
           "document": "docs/concept-matrix-2-norm",
-          "format": "markdown",
           "label": "矩阵 2-范数"
         }
       },
@@ -1522,7 +1333,6 @@
         "id": "polar-decomposition",
         "data": {
           "document": "docs/concept-polar-decomposition",
-          "format": "markdown",
           "label": "极分解"
         }
       },
@@ -1530,7 +1340,6 @@
         "id": "data-centering",
         "data": {
           "document": "docs/concept-data-centering",
-          "format": "markdown",
           "label": "数据中心化"
         }
       },
@@ -1538,7 +1347,6 @@
         "id": "sample-covariance-matrix",
         "data": {
           "document": "docs/concept-sample-covariance-matrix",
-          "format": "markdown",
           "label": "样本协方差矩阵"
         }
       },
@@ -1546,7 +1354,6 @@
         "id": "principal-component-analysis",
         "data": {
           "document": "docs/concept-principal-component-analysis",
-          "format": "markdown",
           "label": "主成分分析"
         }
       },
@@ -1554,7 +1361,6 @@
         "id": "explained-variance",
         "data": {
           "document": "docs/concept-explained-variance",
-          "format": "markdown",
           "label": "主成分解释方差"
         }
       },
@@ -1562,7 +1368,6 @@
         "id": "affine-transformation",
         "data": {
           "document": "docs/concept-affine-transformation",
-          "format": "markdown",
           "label": "仿射变换"
         }
       },
@@ -1570,7 +1375,6 @@
         "id": "linear-map-composition",
         "data": {
           "document": "docs/concept-linear-map-composition",
-          "format": "markdown",
           "label": "线性映射复合"
         }
       },
@@ -1578,7 +1382,6 @@
         "id": "polynomial-derivative-operator",
         "data": {
           "document": "docs/concept-polynomial-derivative-operator",
-          "format": "markdown",
           "label": "多项式微分算子"
         }
       },
@@ -1586,7 +1389,6 @@
         "id": "polynomial-integration-operator",
         "data": {
           "document": "docs/concept-polynomial-integration-operator",
-          "format": "markdown",
           "label": "多项式积分算子"
         }
       },
@@ -1594,7 +1396,6 @@
         "id": "generalized-eigenvector",
         "data": {
           "document": "docs/concept-generalized-eigenvector",
-          "format": "markdown",
           "label": "广义特征向量"
         }
       },
@@ -1602,7 +1403,6 @@
         "id": "jordan-block",
         "data": {
           "document": "docs/concept-jordan-block",
-          "format": "markdown",
           "label": "Jordan 块"
         }
       },
@@ -1610,7 +1410,6 @@
         "id": "function-inner-product",
         "data": {
           "document": "docs/concept-function-inner-product",
-          "format": "markdown",
           "label": "函数积分内积"
         }
       },
@@ -1618,7 +1417,6 @@
         "id": "fourier-basis",
         "data": {
           "document": "docs/concept-fourier-basis",
-          "format": "markdown",
           "label": "Fourier 基"
         }
       },
@@ -1626,7 +1424,6 @@
         "id": "circulant-matrix",
         "data": {
           "document": "docs/concept-circulant-matrix",
-          "format": "markdown",
           "label": "循环矩阵"
         }
       },
@@ -1634,7 +1431,6 @@
         "id": "legendre-polynomials",
         "data": {
           "document": "docs/concept-legendre-polynomials",
-          "format": "markdown",
           "label": "Legendre 多项式"
         }
       },
@@ -1642,7 +1438,6 @@
         "id": "chebyshev-polynomials",
         "data": {
           "document": "docs/concept-chebyshev-polynomials",
-          "format": "markdown",
           "label": "Chebyshev 多项式"
         }
       },
@@ -1650,7 +1445,6 @@
         "id": "complex-number",
         "data": {
           "document": "docs/concept-complex-number",
-          "format": "markdown",
           "label": "复数"
         }
       },
@@ -1658,7 +1452,6 @@
         "id": "complex-conjugate",
         "data": {
           "document": "docs/concept-complex-conjugate",
-          "format": "markdown",
           "label": "复共轭"
         }
       },
@@ -1666,7 +1459,6 @@
         "id": "complex-polar-form",
         "data": {
           "document": "docs/concept-complex-polar-form",
-          "format": "markdown",
           "label": "复数极坐标形式"
         }
       },
@@ -1674,7 +1466,6 @@
         "id": "roots-of-unity",
         "data": {
           "document": "docs/concept-roots-of-unity",
-          "format": "markdown",
           "label": "单位根"
         }
       },
@@ -1682,7 +1473,6 @@
         "id": "conjugate-transpose",
         "data": {
           "document": "docs/concept-conjugate-transpose",
-          "format": "markdown",
           "label": "共轭转置"
         }
       },
@@ -1690,7 +1480,6 @@
         "id": "complex-inner-product-second-linear",
         "data": {
           "document": "docs/concept-complex-inner-product-second-linear",
-          "format": "markdown",
           "label": "复内积（第二变量线性约定）"
         }
       },
@@ -1698,7 +1487,6 @@
         "id": "hermitian-matrix",
         "data": {
           "document": "docs/concept-hermitian-matrix",
-          "format": "markdown",
           "label": "Hermitian 矩阵"
         }
       },
@@ -1706,7 +1494,6 @@
         "id": "hermitian-spectral-theorem",
         "data": {
           "document": "docs/concept-hermitian-spectral-theorem",
-          "format": "markdown",
           "label": "Hermitian 谱定理"
         }
       },
@@ -1714,7 +1501,6 @@
         "id": "unitary-matrix",
         "data": {
           "document": "docs/concept-unitary-matrix",
-          "format": "markdown",
           "label": "幺正矩阵"
         }
       },
@@ -1722,7 +1508,6 @@
         "id": "skew-hermitian-matrix",
         "data": {
           "document": "docs/concept-skew-hermitian-matrix",
-          "format": "markdown",
           "label": "斜 Hermitian 矩阵"
         }
       },
@@ -1730,7 +1515,6 @@
         "id": "normal-matrix",
         "data": {
           "document": "docs/concept-normal-matrix",
-          "format": "markdown",
           "label": "正规矩阵"
         }
       },
@@ -1738,7 +1522,6 @@
         "id": "fourier-matrix",
         "data": {
           "document": "docs/concept-fourier-matrix",
-          "format": "markdown",
           "label": "Fourier 矩阵"
         }
       },
@@ -1746,7 +1529,6 @@
         "id": "discrete-fourier-transform",
         "data": {
           "document": "docs/concept-discrete-fourier-transform",
-          "format": "markdown",
           "label": "离散 Fourier 变换"
         }
       },
@@ -1754,7 +1536,6 @@
         "id": "fast-fourier-transform",
         "data": {
           "document": "docs/concept-fast-fourier-transform",
-          "format": "markdown",
           "label": "快速 Fourier 变换"
         }
       },
@@ -1762,7 +1543,6 @@
         "id": "graph",
         "data": {
           "document": "docs/concept-graph",
-          "format": "markdown",
           "label": "图"
         }
       },
@@ -1770,7 +1550,6 @@
         "id": "incidence-matrix",
         "data": {
           "document": "docs/concept-incidence-matrix",
-          "format": "markdown",
           "label": "图关联矩阵"
         }
       },
@@ -1778,7 +1557,6 @@
         "id": "spanning-tree",
         "data": {
           "document": "docs/concept-spanning-tree",
-          "format": "markdown",
           "label": "生成树"
         }
       },
@@ -1786,7 +1564,6 @@
         "id": "graph-cycle-space",
         "data": {
           "document": "docs/concept-graph-cycle-space",
-          "format": "markdown",
           "label": "图回路空间"
         }
       },
@@ -1794,7 +1571,6 @@
         "id": "kirchhoff-voltage-law",
         "data": {
           "document": "docs/concept-kirchhoff-voltage-law",
-          "format": "markdown",
           "label": "Kirchhoff 电压定律"
         }
       },
@@ -1802,7 +1578,6 @@
         "id": "kirchhoff-current-law",
         "data": {
           "document": "docs/concept-kirchhoff-current-law",
-          "format": "markdown",
           "label": "Kirchhoff 电流定律"
         }
       },
@@ -1810,7 +1585,6 @@
         "id": "graph-laplacian",
         "data": {
           "document": "docs/concept-graph-laplacian",
-          "format": "markdown",
           "label": "图 Laplacian"
         }
       },
@@ -1818,7 +1592,6 @@
         "id": "weighted-network-matrix",
         "data": {
           "document": "docs/concept-weighted-network-matrix",
-          "format": "markdown",
           "label": "加权网络矩阵"
         }
       },
@@ -1826,7 +1599,6 @@
         "id": "finite-difference-discretization",
         "data": {
           "document": "docs/concept-finite-difference-discretization",
-          "format": "markdown",
           "label": "有限差分离散"
         }
       },
@@ -1834,7 +1606,6 @@
         "id": "stiffness-matrix",
         "data": {
           "document": "docs/concept-stiffness-matrix",
-          "format": "markdown",
           "label": "刚度矩阵"
         }
       },
@@ -1842,7 +1613,6 @@
         "id": "markov-matrix",
         "data": {
           "document": "docs/concept-markov-matrix",
-          "format": "markdown",
           "label": "Markov 矩阵"
         }
       },
@@ -1850,7 +1620,6 @@
         "id": "stationary-distribution",
         "data": {
           "document": "docs/concept-stationary-distribution",
-          "format": "markdown",
           "label": "Markov 稳态分布"
         }
       },
@@ -1858,7 +1627,6 @@
         "id": "perron-frobenius-theorem",
         "data": {
           "document": "docs/concept-perron-frobenius-theorem",
-          "format": "markdown",
           "label": "Perron-Frobenius 定理"
         }
       },
@@ -1866,7 +1634,6 @@
         "id": "leslie-matrix",
         "data": {
           "document": "docs/concept-leslie-matrix",
-          "format": "markdown",
           "label": "Leslie 人口矩阵"
         }
       },
@@ -1874,7 +1641,6 @@
         "id": "matrix-geometric-series",
         "data": {
           "document": "docs/concept-matrix-geometric-series",
-          "format": "markdown",
           "label": "矩阵几何级数"
         }
       },
@@ -1882,7 +1648,6 @@
         "id": "leontief-input-output-model",
         "data": {
           "document": "docs/concept-leontief-input-output-model",
-          "format": "markdown",
           "label": "Leontief 投入产出模型"
         }
       },
@@ -1890,7 +1655,6 @@
         "id": "linear-program",
         "data": {
           "document": "docs/concept-linear-program",
-          "format": "markdown",
           "label": "线性规划"
         }
       },
@@ -1898,7 +1662,6 @@
         "id": "linear-program-feasible-set",
         "data": {
           "document": "docs/concept-linear-program-feasible-set",
-          "format": "markdown",
           "label": "线性规划可行集"
         }
       },
@@ -1906,7 +1669,6 @@
         "id": "linear-program-duality",
         "data": {
           "document": "docs/concept-linear-program-duality",
-          "format": "markdown",
           "label": "线性规划对偶"
         }
       },
@@ -1914,7 +1676,6 @@
         "id": "simplex-method",
         "data": {
           "document": "docs/concept-simplex-method",
-          "format": "markdown",
           "label": "单纯形法"
         }
       },
@@ -1922,7 +1683,6 @@
         "id": "interior-point-method",
         "data": {
           "document": "docs/concept-interior-point-method",
-          "format": "markdown",
           "label": "内点法"
         }
       },
@@ -1930,7 +1690,6 @@
         "id": "hilbert-space",
         "data": {
           "document": "docs/concept-hilbert-space",
-          "format": "markdown",
           "label": "Hilbert 空间"
         }
       },
@@ -1938,7 +1697,6 @@
         "id": "fourier-series",
         "data": {
           "document": "docs/concept-fourier-series",
-          "format": "markdown",
           "label": "Fourier 级数"
         }
       },
@@ -1946,7 +1704,6 @@
         "id": "fourier-coefficients",
         "data": {
           "document": "docs/concept-fourier-coefficients",
-          "format": "markdown",
           "label": "Fourier 系数"
         }
       },
@@ -1954,7 +1711,6 @@
         "id": "parseval-identity",
         "data": {
           "document": "docs/concept-parseval-identity",
-          "format": "markdown",
           "label": "Parseval 恒等式"
         }
       },
@@ -1962,7 +1718,6 @@
         "id": "homogeneous-coordinates",
         "data": {
           "document": "docs/concept-homogeneous-coordinates",
-          "format": "markdown",
           "label": "齐次坐标"
         }
       },
@@ -1970,7 +1725,6 @@
         "id": "projective-space",
         "data": {
           "document": "docs/concept-projective-space",
-          "format": "markdown",
           "label": "射影空间"
         }
       },
@@ -1978,7 +1732,6 @@
         "id": "finite-field",
         "data": {
           "document": "docs/concept-finite-field",
-          "format": "markdown",
           "label": "有限域"
         }
       },
@@ -1986,7 +1739,6 @@
         "id": "modular-arithmetic",
         "data": {
           "document": "docs/concept-modular-arithmetic",
-          "format": "markdown",
           "label": "模运算"
         }
       },
@@ -1994,7 +1746,6 @@
         "id": "hill-cipher",
         "data": {
           "document": "docs/concept-hill-cipher",
-          "format": "markdown",
           "label": "Hill 密码"
         }
       },
@@ -2002,7 +1753,6 @@
         "id": "floating-point-roundoff",
         "data": {
           "document": "docs/concept-floating-point-roundoff",
-          "format": "markdown",
           "label": "浮点舍入误差"
         }
       },
@@ -2010,7 +1760,6 @@
         "id": "partial-pivoting",
         "data": {
           "document": "docs/concept-partial-pivoting",
-          "format": "markdown",
           "label": "部分主元法"
         }
       },
@@ -2018,7 +1767,6 @@
         "id": "sparse-matrix",
         "data": {
           "document": "docs/concept-sparse-matrix",
-          "format": "markdown",
           "label": "稀疏矩阵"
         }
       },
@@ -2026,7 +1774,6 @@
         "id": "elimination-fill-in",
         "data": {
           "document": "docs/concept-elimination-fill-in",
-          "format": "markdown",
           "label": "消元填充"
         }
       },
@@ -2034,7 +1781,6 @@
         "id": "flop-complexity",
         "data": {
           "document": "docs/concept-flop-complexity",
-          "format": "markdown",
           "label": "浮点运算复杂度"
         }
       },
@@ -2042,7 +1788,6 @@
         "id": "condition-number",
         "data": {
           "document": "docs/concept-condition-number",
-          "format": "markdown",
           "label": "2-范数条件数"
         }
       },
@@ -2050,7 +1795,6 @@
         "id": "spectral-radius",
         "data": {
           "document": "docs/concept-spectral-radius",
-          "format": "markdown",
           "label": "谱半径"
         }
       },
@@ -2058,7 +1802,6 @@
         "id": "stationary-linear-iteration",
         "data": {
           "document": "docs/concept-stationary-linear-iteration",
-          "format": "markdown",
           "label": "定常线性迭代"
         }
       },
@@ -2066,7 +1809,6 @@
         "id": "preconditioner",
         "data": {
           "document": "docs/concept-preconditioner",
-          "format": "markdown",
           "label": "预条件器"
         }
       },
@@ -2074,7 +1816,6 @@
         "id": "jacobi-method",
         "data": {
           "document": "docs/concept-jacobi-method",
-          "format": "markdown",
           "label": "Jacobi 迭代"
         }
       },
@@ -2082,7 +1823,6 @@
         "id": "gauss-seidel-method",
         "data": {
           "document": "docs/concept-gauss-seidel-method",
-          "format": "markdown",
           "label": "Gauss-Seidel 迭代"
         }
       },
@@ -2090,7 +1830,6 @@
         "id": "incomplete-lu",
         "data": {
           "document": "docs/concept-incomplete-lu",
-          "format": "markdown",
           "label": "不完全 LU"
         }
       },
@@ -2098,7 +1837,6 @@
         "id": "krylov-subspace",
         "data": {
           "document": "docs/concept-krylov-subspace",
-          "format": "markdown",
           "label": "Krylov 子空间"
         }
       },
@@ -2106,7 +1844,6 @@
         "id": "conjugate-gradient-method",
         "data": {
           "document": "docs/concept-conjugate-gradient-method",
-          "format": "markdown",
           "label": "共轭梯度法"
         }
       },
@@ -2114,7 +1851,6 @@
         "id": "arnoldi-iteration",
         "data": {
           "document": "docs/concept-arnoldi-iteration",
-          "format": "markdown",
           "label": "Arnoldi 迭代"
         }
       },
@@ -2122,7 +1858,6 @@
         "id": "lanczos-iteration",
         "data": {
           "document": "docs/concept-lanczos-iteration",
-          "format": "markdown",
           "label": "Lanczos 迭代"
         }
       },
@@ -2130,7 +1865,6 @@
         "id": "power-method",
         "data": {
           "document": "docs/concept-power-method",
-          "format": "markdown",
           "label": "幂法"
         }
       },
@@ -2138,7 +1872,6 @@
         "id": "inverse-power-method",
         "data": {
           "document": "docs/concept-inverse-power-method",
-          "format": "markdown",
           "label": "逆幂法"
         }
       },
@@ -2146,7 +1879,6 @@
         "id": "qr-eigenvalue-algorithm",
         "data": {
           "document": "docs/concept-qr-eigenvalue-algorithm",
-          "format": "markdown",
           "label": "QR 特征值算法"
         }
       },
@@ -2154,7 +1886,6 @@
         "id": "givens-rotation",
         "data": {
           "document": "docs/concept-givens-rotation",
-          "format": "markdown",
           "label": "Givens 旋转"
         }
       },
@@ -2162,7 +1893,6 @@
         "id": "preconditioned-conjugate-gradient",
         "data": {
           "document": "docs/concept-preconditioned-conjugate-gradient",
-          "format": "markdown",
           "label": "预条件共轭梯度法"
         }
       },
@@ -2170,7 +1900,6 @@
         "id": "probability-distribution",
         "data": {
           "document": "docs/concept-probability-distribution",
-          "format": "markdown",
           "label": "离散概率分布"
         }
       },
@@ -2178,7 +1907,6 @@
         "id": "random-variable",
         "data": {
           "document": "docs/concept-random-variable",
-          "format": "markdown",
           "label": "随机变量"
         }
       },
@@ -2186,7 +1914,6 @@
         "id": "sample-mean",
         "data": {
           "document": "docs/concept-sample-mean",
-          "format": "markdown",
           "label": "样本均值"
         }
       },
@@ -2194,7 +1921,6 @@
         "id": "expected-value",
         "data": {
           "document": "docs/concept-expected-value",
-          "format": "markdown",
           "label": "期望值"
         }
       },
@@ -2202,7 +1928,6 @@
         "id": "sample-variance",
         "data": {
           "document": "docs/concept-sample-variance",
-          "format": "markdown",
           "label": "样本方差"
         }
       },
@@ -2210,7 +1935,6 @@
         "id": "population-variance",
         "data": {
           "document": "docs/concept-population-variance",
-          "format": "markdown",
           "label": "总体方差"
         }
       },
@@ -2218,7 +1942,6 @@
         "id": "probability-density",
         "data": {
           "document": "docs/concept-probability-density",
-          "format": "markdown",
           "label": "概率密度函数"
         }
       },
@@ -2226,7 +1949,6 @@
         "id": "cumulative-distribution",
         "data": {
           "document": "docs/concept-cumulative-distribution",
-          "format": "markdown",
           "label": "累积分布函数"
         }
       },
@@ -2234,7 +1956,6 @@
         "id": "normal-distribution",
         "data": {
           "document": "docs/concept-normal-distribution",
-          "format": "markdown",
           "label": "正态分布"
         }
       },
@@ -2242,7 +1963,6 @@
         "id": "law-of-large-numbers",
         "data": {
           "document": "docs/concept-law-of-large-numbers",
-          "format": "markdown",
           "label": "大数定律"
         }
       },
@@ -2250,7 +1970,6 @@
         "id": "central-limit-theorem",
         "data": {
           "document": "docs/concept-central-limit-theorem",
-          "format": "markdown",
           "label": "中心极限定理"
         }
       },
@@ -2258,7 +1977,6 @@
         "id": "monte-carlo-estimation",
         "data": {
           "document": "docs/concept-monte-carlo-estimation",
-          "format": "markdown",
           "label": "Monte Carlo 估计"
         }
       },
@@ -2266,7 +1984,6 @@
         "id": "joint-probability-distribution",
         "data": {
           "document": "docs/concept-joint-probability-distribution",
-          "format": "markdown",
           "label": "联合概率分布"
         }
       },
@@ -2274,7 +1991,6 @@
         "id": "covariance",
         "data": {
           "document": "docs/concept-covariance",
-          "format": "markdown",
           "label": "协方差"
         }
       },
@@ -2282,7 +1998,6 @@
         "id": "covariance-matrix",
         "data": {
           "document": "docs/concept-covariance-matrix",
-          "format": "markdown",
           "label": "协方差矩阵"
         }
       },
@@ -2290,7 +2005,6 @@
         "id": "correlation-matrix",
         "data": {
           "document": "docs/concept-correlation-matrix",
-          "format": "markdown",
           "label": "相关矩阵"
         }
       },
@@ -2298,7 +2012,6 @@
         "id": "multivariate-normal-distribution",
         "data": {
           "document": "docs/concept-multivariate-normal-distribution",
-          "format": "markdown",
           "label": "多元正态分布"
         }
       },
@@ -2306,7 +2019,6 @@
         "id": "weighted-least-squares",
         "data": {
           "document": "docs/concept-weighted-least-squares",
-          "format": "markdown",
           "label": "加权最小二乘"
         }
       },
@@ -2314,7 +2026,6 @@
         "id": "best-linear-unbiased-estimator",
         "data": {
           "document": "docs/concept-best-linear-unbiased-estimator",
-          "format": "markdown",
           "label": "最佳线性无偏估计"
         }
       },
@@ -2322,7 +2033,6 @@
         "id": "kalman-filter",
         "data": {
           "document": "docs/concept-kalman-filter",
-          "format": "markdown",
           "label": "Kalman 滤波"
         }
       },
@@ -2330,7 +2040,6 @@
         "id": "sherman-morrison-formula",
         "data": {
           "document": "docs/concept-sherman-morrison-formula",
-          "format": "markdown",
           "label": "Sherman-Morrison 公式"
         }
       },
@@ -2338,7 +2047,6 @@
         "id": "conditional-probability",
         "data": {
           "document": "docs/concept-conditional-probability",
-          "format": "markdown",
           "label": "条件概率"
         }
       },
@@ -2346,7 +2054,6 @@
         "id": "standard-deviation",
         "data": {
           "document": "docs/concept-standard-deviation",
-          "format": "markdown",
           "label": "标准差"
         }
       }
@@ -2361,8 +2068,7 @@
         ],
         "head": "coordinate-space",
         "data": {
-          "document": "docs/derivation-given-fields",
-          "format": "markdown"
+          "document": "docs/derivation-given-fields"
         }
       },
       {
@@ -2374,8 +2080,7 @@
         ],
         "head": "vector-space",
         "data": {
-          "document": "docs/derivation-def-vector",
-          "format": "markdown"
+          "document": "docs/derivation-def-vector"
         }
       },
       {
@@ -2386,8 +2091,7 @@
         ],
         "head": "subspace",
         "data": {
-          "document": "docs/derivation-subspace-test",
-          "format": "markdown"
+          "document": "docs/derivation-subspace-test"
         }
       },
       {
@@ -2398,8 +2102,7 @@
         ],
         "head": "direct-sum",
         "data": {
-          "document": "docs/derivation-sum-direct",
-          "format": "markdown"
+          "document": "docs/derivation-sum-direct"
         }
       },
       {
@@ -2411,8 +2114,7 @@
         ],
         "head": "span",
         "data": {
-          "document": "docs/derivation-span-minimal",
-          "format": "markdown"
+          "document": "docs/derivation-span-minimal"
         }
       },
       {
@@ -2423,8 +2125,7 @@
         ],
         "head": "independence",
         "data": {
-          "document": "docs/derivation-dependence",
-          "format": "markdown"
+          "document": "docs/derivation-dependence"
         }
       },
       {
@@ -2436,8 +2137,7 @@
         ],
         "head": "basis",
         "data": {
-          "document": "docs/derivation-basis-criterion",
-          "format": "markdown"
+          "document": "docs/derivation-basis-criterion"
         }
       },
       {
@@ -2449,8 +2149,7 @@
         ],
         "head": "dimension",
         "data": {
-          "document": "docs/derivation-basis-exists",
-          "format": "markdown"
+          "document": "docs/derivation-basis-exists"
         }
       },
       {
@@ -2461,8 +2160,7 @@
         ],
         "head": "linear-map",
         "data": {
-          "document": "docs/derivation-linear-map-def",
-          "format": "markdown"
+          "document": "docs/derivation-linear-map-def"
         }
       },
       {
@@ -2474,8 +2172,7 @@
         ],
         "head": "null-range",
         "data": {
-          "document": "docs/derivation-null-range-subspaces",
-          "format": "markdown"
+          "document": "docs/derivation-null-range-subspaces"
         }
       },
       {
@@ -2488,8 +2185,7 @@
         ],
         "head": "rank-nullity",
         "data": {
-          "document": "docs/derivation-fundamental-map",
-          "format": "markdown"
+          "document": "docs/derivation-fundamental-map"
         }
       },
       {
@@ -2501,8 +2197,7 @@
         ],
         "head": "matrix",
         "data": {
-          "document": "docs/derivation-matrix-representation",
-          "format": "markdown"
+          "document": "docs/derivation-matrix-representation"
         }
       },
       {
@@ -2514,8 +2209,7 @@
         ],
         "head": "rank",
         "data": {
-          "document": "docs/derivation-rank-equality",
-          "format": "markdown"
+          "document": "docs/derivation-rank-equality"
         }
       },
       {
@@ -2526,8 +2220,7 @@
         ],
         "head": "isomorphism",
         "data": {
-          "document": "docs/derivation-isomorphism-dim",
-          "format": "markdown"
+          "document": "docs/derivation-isomorphism-dim"
         }
       },
       {
@@ -2539,8 +2232,7 @@
         ],
         "head": "quotient",
         "data": {
-          "document": "docs/derivation-quotient-space",
-          "format": "markdown"
+          "document": "docs/derivation-quotient-space"
         }
       },
       {
@@ -2552,8 +2244,7 @@
         ],
         "head": "dual-map",
         "data": {
-          "document": "docs/derivation-dual-build",
-          "format": "markdown"
+          "document": "docs/derivation-dual-build"
         }
       },
       {
@@ -2564,8 +2255,7 @@
         ],
         "head": "polynomial",
         "data": {
-          "document": "docs/derivation-given-polynomial",
-          "format": "markdown"
+          "document": "docs/derivation-given-polynomial"
         }
       },
       {
@@ -2577,8 +2267,7 @@
         ],
         "head": "invariant-subspace",
         "data": {
-          "document": "docs/derivation-operator-invariance",
-          "format": "markdown"
+          "document": "docs/derivation-operator-invariance"
         }
       },
       {
@@ -2590,8 +2279,7 @@
         ],
         "head": "eigen",
         "data": {
-          "document": "docs/derivation-eigen-equivalence",
-          "format": "markdown"
+          "document": "docs/derivation-eigen-equivalence"
         }
       },
       {
@@ -2604,8 +2292,7 @@
         ],
         "head": "minimal-polynomial",
         "data": {
-          "document": "docs/derivation-minimal-exists",
-          "format": "markdown"
+          "document": "docs/derivation-minimal-exists"
         }
       },
       {
@@ -2617,8 +2304,7 @@
         ],
         "head": "triangular-diagonal",
         "data": {
-          "document": "docs/derivation-triangular",
-          "format": "markdown"
+          "document": "docs/derivation-triangular"
         }
       },
       {
@@ -2630,8 +2316,7 @@
         ],
         "head": "inner-product",
         "data": {
-          "document": "docs/derivation-inner-def",
-          "format": "markdown"
+          "document": "docs/derivation-inner-def"
         }
       },
       {
@@ -2642,8 +2327,7 @@
         ],
         "head": "norm-orthogonal",
         "data": {
-          "document": "docs/derivation-norm-cs",
-          "format": "markdown"
+          "document": "docs/derivation-norm-cs"
         }
       },
       {
@@ -2656,8 +2340,7 @@
         ],
         "head": "orthonormal",
         "data": {
-          "document": "docs/derivation-gram-schmidt",
-          "format": "markdown"
+          "document": "docs/derivation-gram-schmidt"
         }
       },
       {
@@ -2670,8 +2353,7 @@
         ],
         "head": "orthogonal-projection",
         "data": {
-          "document": "docs/derivation-projection",
-          "format": "markdown"
+          "document": "docs/derivation-projection"
         }
       },
       {
@@ -2684,8 +2366,7 @@
         ],
         "head": "adjoint",
         "data": {
-          "document": "docs/derivation-adjoint-riesz",
-          "format": "markdown"
+          "document": "docs/derivation-adjoint-riesz"
         }
       },
       {
@@ -2696,8 +2377,7 @@
         ],
         "head": "positive-operator",
         "data": {
-          "document": "docs/derivation-normal-classes",
-          "format": "markdown"
+          "document": "docs/derivation-normal-classes"
         }
       },
       {
@@ -2710,8 +2390,7 @@
         ],
         "head": "spectral-theorem",
         "data": {
-          "document": "docs/derivation-spectral",
-          "format": "markdown"
+          "document": "docs/derivation-spectral"
         }
       },
       {
@@ -2724,8 +2403,7 @@
         ],
         "head": "unitary-operator",
         "data": {
-          "document": "docs/derivation-unitary",
-          "format": "markdown"
+          "document": "docs/derivation-unitary"
         }
       },
       {
@@ -2738,8 +2416,7 @@
         ],
         "head": "svd",
         "data": {
-          "document": "docs/derivation-svd-step",
-          "format": "markdown"
+          "document": "docs/derivation-svd-step"
         }
       },
       {
@@ -2751,8 +2428,7 @@
         ],
         "head": "pseudoinverse",
         "data": {
-          "document": "docs/derivation-pinv-step",
-          "format": "markdown"
+          "document": "docs/derivation-pinv-step"
         }
       },
       {
@@ -2766,8 +2442,7 @@
         ],
         "head": "generalized-eigenspace",
         "data": {
-          "document": "docs/derivation-nilpotent-generalized",
-          "format": "markdown"
+          "document": "docs/derivation-nilpotent-generalized"
         }
       },
       {
@@ -2780,8 +2455,7 @@
         ],
         "head": "cayley-hamilton",
         "data": {
-          "document": "docs/derivation-charpoly",
-          "format": "markdown"
+          "document": "docs/derivation-charpoly"
         }
       },
       {
@@ -2797,8 +2471,7 @@
         ],
         "head": "jordan",
         "data": {
-          "document": "docs/derivation-jordan-chains",
-          "format": "markdown"
+          "document": "docs/derivation-jordan-chains"
         }
       },
       {
@@ -2811,8 +2484,7 @@
         ],
         "head": "trace",
         "data": {
-          "document": "docs/derivation-trace-invariant",
-          "format": "markdown"
+          "document": "docs/derivation-trace-invariant"
         }
       },
       {
@@ -2823,8 +2495,7 @@
         ],
         "head": "quadratic-form",
         "data": {
-          "document": "docs/derivation-bilinear-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-bilinear-matrix"
         }
       },
       {
@@ -2836,8 +2507,7 @@
         ],
         "head": "alternating",
         "data": {
-          "document": "docs/derivation-alternating-space",
-          "format": "markdown"
+          "document": "docs/derivation-alternating-space"
         }
       },
       {
@@ -2849,8 +2519,7 @@
         ],
         "head": "determinant",
         "data": {
-          "document": "docs/derivation-det-build",
-          "format": "markdown"
+          "document": "docs/derivation-det-build"
         }
       },
       {
@@ -2862,8 +2531,7 @@
         ],
         "head": "tensor",
         "data": {
-          "document": "docs/derivation-tensor-linearize",
-          "format": "markdown"
+          "document": "docs/derivation-tensor-linearize"
         }
       },
       {
@@ -2874,8 +2542,7 @@
         ],
         "head": "subspace-sum",
         "data": {
-          "document": "docs/derivation-subspace-sum-def",
-          "format": "markdown"
+          "document": "docs/derivation-subspace-sum-def"
         }
       },
       {
@@ -2886,8 +2553,7 @@
         ],
         "head": "linear-combination",
         "data": {
-          "document": "docs/derivation-linear-combination-def",
-          "format": "markdown"
+          "document": "docs/derivation-linear-combination-def"
         }
       },
       {
@@ -2898,8 +2564,7 @@
         ],
         "head": "finite-dimensional",
         "data": {
-          "document": "docs/derivation-finite-dimensional-def",
-          "format": "markdown"
+          "document": "docs/derivation-finite-dimensional-def"
         }
       },
       {
@@ -2911,8 +2576,7 @@
         ],
         "head": "range",
         "data": {
-          "document": "docs/derivation-range-subspace",
-          "format": "markdown"
+          "document": "docs/derivation-range-subspace"
         }
       },
       {
@@ -2923,8 +2587,7 @@
         ],
         "head": "injective-surjective",
         "data": {
-          "document": "docs/derivation-injective-def",
-          "format": "markdown"
+          "document": "docs/derivation-injective-def"
         }
       },
       {
@@ -2935,8 +2598,7 @@
         ],
         "head": "surjective",
         "data": {
-          "document": "docs/derivation-surjective-def",
-          "format": "markdown"
+          "document": "docs/derivation-surjective-def"
         }
       },
       {
@@ -2948,8 +2610,7 @@
         ],
         "head": "invertible",
         "data": {
-          "document": "docs/derivation-invertible-bijection",
-          "format": "markdown"
+          "document": "docs/derivation-invertible-bijection"
         }
       },
       {
@@ -2962,8 +2623,7 @@
         ],
         "head": "change-of-basis",
         "data": {
-          "document": "docs/derivation-change-of-basis-build",
-          "format": "markdown"
+          "document": "docs/derivation-change-of-basis-build"
         }
       },
       {
@@ -2974,8 +2634,7 @@
         ],
         "head": "dual",
         "data": {
-          "document": "docs/derivation-dual-space-build",
-          "format": "markdown"
+          "document": "docs/derivation-dual-space-build"
         }
       },
       {
@@ -2986,8 +2645,7 @@
         ],
         "head": "polynomial-zero",
         "data": {
-          "document": "docs/derivation-polynomial-zero-factor",
-          "format": "markdown"
+          "document": "docs/derivation-polynomial-zero-factor"
         }
       },
       {
@@ -2998,8 +2656,7 @@
         ],
         "head": "operator",
         "data": {
-          "document": "docs/derivation-operator-def",
-          "format": "markdown"
+          "document": "docs/derivation-operator-def"
         }
       },
       {
@@ -3011,8 +2668,7 @@
         ],
         "head": "eigenvector",
         "data": {
-          "document": "docs/derivation-eigenvector-def",
-          "format": "markdown"
+          "document": "docs/derivation-eigenvector-def"
         }
       },
       {
@@ -3025,8 +2681,7 @@
         ],
         "head": "diagonalization",
         "data": {
-          "document": "docs/derivation-diagonalization-eigenbasis",
-          "format": "markdown"
+          "document": "docs/derivation-diagonalization-eigenbasis"
         }
       },
       {
@@ -3037,8 +2692,7 @@
         ],
         "head": "orthogonality",
         "data": {
-          "document": "docs/derivation-orthogonality-def",
-          "format": "markdown"
+          "document": "docs/derivation-orthogonality-def"
         }
       },
       {
@@ -3050,8 +2704,7 @@
         ],
         "head": "orthogonal-complement",
         "data": {
-          "document": "docs/derivation-orthogonal-complement-def",
-          "format": "markdown"
+          "document": "docs/derivation-orthogonal-complement-def"
         }
       },
       {
@@ -3063,8 +2716,7 @@
         ],
         "head": "normal-selfadjoint",
         "data": {
-          "document": "docs/derivation-normal-operator-def",
-          "format": "markdown"
+          "document": "docs/derivation-normal-operator-def"
         }
       },
       {
@@ -3076,8 +2728,7 @@
         ],
         "head": "self-adjoint",
         "data": {
-          "document": "docs/derivation-self-adjoint-def",
-          "format": "markdown"
+          "document": "docs/derivation-self-adjoint-def"
         }
       },
       {
@@ -3088,8 +2739,7 @@
         ],
         "head": "normal-selfadjoint",
         "data": {
-          "document": "docs/derivation-self-adjoint-normal",
-          "format": "markdown"
+          "document": "docs/derivation-self-adjoint-normal"
         }
       },
       {
@@ -3101,8 +2751,7 @@
         ],
         "head": "spectral-theorem",
         "data": {
-          "document": "docs/derivation-spectral-self-adjoint",
-          "format": "markdown"
+          "document": "docs/derivation-spectral-self-adjoint"
         }
       },
       {
@@ -3114,8 +2763,7 @@
         ],
         "head": "isometry-unitary",
         "data": {
-          "document": "docs/derivation-isometry-def",
-          "format": "markdown"
+          "document": "docs/derivation-isometry-def"
         }
       },
       {
@@ -3128,8 +2776,7 @@
         ],
         "head": "singular-value",
         "data": {
-          "document": "docs/derivation-singular-values-spectral",
-          "format": "markdown"
+          "document": "docs/derivation-singular-values-spectral"
         }
       },
       {
@@ -3140,8 +2787,7 @@
         ],
         "head": "nilpotent",
         "data": {
-          "document": "docs/derivation-nilpotent-def",
-          "format": "markdown"
+          "document": "docs/derivation-nilpotent-def"
         }
       },
       {
@@ -3153,8 +2799,7 @@
         ],
         "head": "characteristic",
         "data": {
-          "document": "docs/derivation-characteristic-build",
-          "format": "markdown"
+          "document": "docs/derivation-characteristic-build"
         }
       },
       {
@@ -3166,8 +2811,7 @@
         ],
         "head": "jordan-form",
         "data": {
-          "document": "docs/derivation-jordan-form-build",
-          "format": "markdown"
+          "document": "docs/derivation-jordan-form-build"
         }
       },
       {
@@ -3179,8 +2823,7 @@
         ],
         "head": "bilinear",
         "data": {
-          "document": "docs/derivation-bilinear-form-def",
-          "format": "markdown"
+          "document": "docs/derivation-bilinear-form-def"
         }
       },
       {
@@ -3191,8 +2834,7 @@
         ],
         "head": "null-range",
         "data": {
-          "document": "docs/derivation-null-space-def",
-          "format": "markdown"
+          "document": "docs/derivation-null-space-def"
         }
       },
       {
@@ -3203,8 +2845,7 @@
         ],
         "head": "range",
         "data": {
-          "document": "docs/derivation-range-def",
-          "format": "markdown"
+          "document": "docs/derivation-range-def"
         }
       },
       {
@@ -3215,8 +2856,7 @@
         ],
         "head": "eigen",
         "data": {
-          "document": "docs/derivation-eigenvalue-def",
-          "format": "markdown"
+          "document": "docs/derivation-eigenvalue-def"
         }
       },
       {
@@ -3229,8 +2869,7 @@
         ],
         "head": "triangular-diagonal",
         "data": {
-          "document": "docs/derivation-triangularization-def",
-          "format": "markdown"
+          "document": "docs/derivation-triangularization-def"
         }
       },
       {
@@ -3241,8 +2880,7 @@
         ],
         "head": "dot-product",
         "data": {
-          "document": "docs/derivation-strang-ch1-dot-product-def",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-dot-product-def"
         }
       },
       {
@@ -3253,8 +2891,7 @@
         ],
         "head": "euclidean-norm",
         "data": {
-          "document": "docs/derivation-strang-ch1-euclidean-norm",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-euclidean-norm"
         }
       },
       {
@@ -3265,8 +2902,7 @@
         ],
         "head": "euclidean-unit-vector",
         "data": {
-          "document": "docs/derivation-strang-ch1-normalize-vector",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-normalize-vector"
         }
       },
       {
@@ -3278,8 +2914,7 @@
         ],
         "head": "euclidean-orthogonality",
         "data": {
-          "document": "docs/derivation-strang-ch1-dot-zero-orthogonality",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-dot-zero-orthogonality"
         }
       },
       {
@@ -3291,8 +2926,7 @@
         ],
         "head": "euclidean-vector-angle",
         "data": {
-          "document": "docs/derivation-strang-ch1-cosine-angle",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-cosine-angle"
         }
       },
       {
@@ -3303,8 +2937,7 @@
         ],
         "head": "cauchy-schwarz-rn",
         "data": {
-          "document": "docs/derivation-strang-ch1-cauchy-schwarz",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-cauchy-schwarz"
         }
       },
       {
@@ -3316,8 +2949,7 @@
         ],
         "head": "euclidean-triangle-inequality",
         "data": {
-          "document": "docs/derivation-strang-ch1-triangle-inequality",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-triangle-inequality"
         }
       },
       {
@@ -3329,8 +2961,7 @@
         ],
         "head": "span",
         "data": {
-          "document": "docs/derivation-strang-ch1-combinations-span",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-combinations-span"
         }
       },
       {
@@ -3342,8 +2973,7 @@
         ],
         "head": "matrix-array",
         "data": {
-          "document": "docs/derivation-strang-ch1-matrix-array-def",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-matrix-array-def"
         }
       },
       {
@@ -3355,8 +2985,7 @@
         ],
         "head": "matrix-vector-product",
         "data": {
-          "document": "docs/derivation-strang-ch1-matrix-vector-columns",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-matrix-vector-columns"
         }
       },
       {
@@ -3367,8 +2996,7 @@
         ],
         "head": "linear-system",
         "data": {
-          "document": "docs/derivation-strang-ch1-linear-system-form",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-linear-system-form"
         }
       },
       {
@@ -3379,8 +3007,7 @@
         ],
         "head": "homogeneous-linear-system",
         "data": {
-          "document": "docs/derivation-strang-ch1-homogeneous-specialization",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-homogeneous-specialization"
         }
       },
       {
@@ -3392,8 +3019,7 @@
         ],
         "head": "independence",
         "data": {
-          "document": "docs/derivation-strang-ch1-column-independence-test",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-column-independence-test"
         }
       },
       {
@@ -3405,8 +3031,7 @@
         ],
         "head": "inverse-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch1-inverse-from-solutions",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-inverse-from-solutions"
         }
       },
       {
@@ -3417,8 +3042,7 @@
         ],
         "head": "invertible-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch1-inverse-certifies-invertible",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-inverse-certifies-invertible"
         }
       },
       {
@@ -3430,8 +3054,7 @@
         ],
         "head": "singular-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch1-nontrivial-kernel-singular",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch1-nontrivial-kernel-singular"
         }
       },
       {
@@ -3442,8 +3065,7 @@
         ],
         "head": "identity-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-identity-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-identity-matrix"
         }
       },
       {
@@ -3454,8 +3076,7 @@
         ],
         "head": "row-operation",
         "data": {
-          "document": "docs/derivation-strang-ch2-row-operation",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-row-operation"
         }
       },
       {
@@ -3467,8 +3088,7 @@
         ],
         "head": "pivot",
         "data": {
-          "document": "docs/derivation-strang-ch2-pivot",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-pivot"
         }
       },
       {
@@ -3481,8 +3101,7 @@
         ],
         "head": "gaussian-elimination",
         "data": {
-          "document": "docs/derivation-strang-ch2-gaussian-elimination",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-gaussian-elimination"
         }
       },
       {
@@ -3494,8 +3113,7 @@
         ],
         "head": "linear-system-consistency",
         "data": {
-          "document": "docs/derivation-strang-ch2-consistency-test",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-consistency-test"
         }
       },
       {
@@ -3506,8 +3124,7 @@
         ],
         "head": "upper-triangular-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-upper-triangular-def",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-upper-triangular-def"
         }
       },
       {
@@ -3518,8 +3135,7 @@
         ],
         "head": "upper-triangular-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-elimination-reaches-upper",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-elimination-reaches-upper"
         }
       },
       {
@@ -3531,8 +3147,7 @@
         ],
         "head": "back-substitution",
         "data": {
-          "document": "docs/derivation-strang-ch2-back-substitution",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-back-substitution"
         }
       },
       {
@@ -3543,8 +3158,7 @@
         ],
         "head": "lower-triangular-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-lower-triangular-def",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-lower-triangular-def"
         }
       },
       {
@@ -3556,8 +3170,7 @@
         ],
         "head": "forward-substitution",
         "data": {
-          "document": "docs/derivation-strang-ch2-forward-substitution",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-forward-substitution"
         }
       },
       {
@@ -3570,8 +3183,7 @@
         ],
         "head": "elimination-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-elimination-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-elimination-matrix"
         }
       },
       {
@@ -3583,8 +3195,7 @@
         ],
         "head": "permutation-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-permutation-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-permutation-matrix"
         }
       },
       {
@@ -3596,8 +3207,7 @@
         ],
         "head": "augmented-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-augmented-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-augmented-matrix"
         }
       },
       {
@@ -3608,8 +3218,7 @@
         ],
         "head": "matrix-addition",
         "data": {
-          "document": "docs/derivation-strang-ch2-matrix-addition",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-matrix-addition"
         }
       },
       {
@@ -3621,8 +3230,7 @@
         ],
         "head": "matrix-scalar-multiplication",
         "data": {
-          "document": "docs/derivation-strang-ch2-matrix-scalar",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-matrix-scalar"
         }
       },
       {
@@ -3634,8 +3242,7 @@
         ],
         "head": "matrix-multiplication",
         "data": {
-          "document": "docs/derivation-strang-ch2-matrix-multiplication",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-matrix-multiplication"
         }
       },
       {
@@ -3647,8 +3254,7 @@
         ],
         "head": "outer-product",
         "data": {
-          "document": "docs/derivation-strang-ch2-outer-product",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-outer-product"
         }
       },
       {
@@ -3660,8 +3266,7 @@
         ],
         "head": "matrix-power",
         "data": {
-          "document": "docs/derivation-strang-ch2-matrix-power",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-matrix-power"
         }
       },
       {
@@ -3672,8 +3277,7 @@
         ],
         "head": "block-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-block-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-block-matrix"
         }
       },
       {
@@ -3686,8 +3290,7 @@
         ],
         "head": "schur-complement",
         "data": {
-          "document": "docs/derivation-strang-ch2-schur-complement",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-schur-complement"
         }
       },
       {
@@ -3700,8 +3303,7 @@
         ],
         "head": "gauss-jordan-elimination",
         "data": {
-          "document": "docs/derivation-strang-ch2-gauss-jordan",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-gauss-jordan"
         }
       },
       {
@@ -3713,8 +3315,7 @@
         ],
         "head": "inverse-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-gauss-jordan-inverse",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-gauss-jordan-inverse"
         }
       },
       {
@@ -3726,8 +3327,7 @@
         ],
         "head": "inverse-product-rule",
         "data": {
-          "document": "docs/derivation-strang-ch2-inverse-product-rule",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-inverse-product-rule"
         }
       },
       {
@@ -3739,8 +3339,7 @@
         ],
         "head": "invertible-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-full-pivots-invertible",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-full-pivots-invertible"
         }
       },
       {
@@ -3753,8 +3352,7 @@
         ],
         "head": "singular-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-missing-pivot-singular",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-missing-pivot-singular"
         }
       },
       {
@@ -3765,8 +3363,7 @@
         ],
         "head": "band-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-band-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-band-matrix"
         }
       },
       {
@@ -3777,8 +3374,7 @@
         ],
         "head": "diagonally-dominant-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-diagonal-dominance",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-diagonal-dominance"
         }
       },
       {
@@ -3790,8 +3386,7 @@
         ],
         "head": "invertible-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-dominance-invertible",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-dominance-invertible"
         }
       },
       {
@@ -3804,8 +3399,7 @@
         ],
         "head": "lu-factorization",
         "data": {
-          "document": "docs/derivation-strang-ch2-lu-factorization",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-lu-factorization"
         }
       },
       {
@@ -3817,8 +3411,7 @@
         ],
         "head": "ldu-factorization",
         "data": {
-          "document": "docs/derivation-strang-ch2-ldu-factorization",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-ldu-factorization"
         }
       },
       {
@@ -3829,8 +3422,7 @@
         ],
         "head": "matrix-transpose",
         "data": {
-          "document": "docs/derivation-strang-ch2-transpose-def",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-transpose-def"
         }
       },
       {
@@ -3842,8 +3434,7 @@
         ],
         "head": "transpose-product-rule",
         "data": {
-          "document": "docs/derivation-strang-ch2-transpose-product",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-transpose-product"
         }
       },
       {
@@ -3856,8 +3447,7 @@
         ],
         "head": "transpose-adjoint-identity",
         "data": {
-          "document": "docs/derivation-strang-ch2-transpose-adjoint",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-transpose-adjoint"
         }
       },
       {
@@ -3869,8 +3459,7 @@
         ],
         "head": "symmetric-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-symmetric-def",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-symmetric-def"
         }
       },
       {
@@ -3882,8 +3471,7 @@
         ],
         "head": "symmetric-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-symmetric-products",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-symmetric-products"
         }
       },
       {
@@ -3896,8 +3484,7 @@
         ],
         "head": "ldlt-factorization",
         "data": {
-          "document": "docs/derivation-strang-ch2-ldlt-factorization",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-ldlt-factorization"
         }
       },
       {
@@ -3911,8 +3498,7 @@
         ],
         "head": "orthogonal-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-orthogonal-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-orthogonal-matrix"
         }
       },
       {
@@ -3924,8 +3510,7 @@
         ],
         "head": "orthogonal-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch2-permutation-orthogonal",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-permutation-orthogonal"
         }
       },
       {
@@ -3938,8 +3523,7 @@
         ],
         "head": "pivoted-lu-factorization",
         "data": {
-          "document": "docs/derivation-strang-ch2-pivoted-lu",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch2-pivoted-lu"
         }
       },
       {
@@ -3951,8 +3535,7 @@
         ],
         "head": "column-space",
         "data": {
-          "document": "docs/derivation-strang-ch3-column-space",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-column-space"
         }
       },
       {
@@ -3964,8 +3547,7 @@
         ],
         "head": "column-space-solvability",
         "data": {
-          "document": "docs/derivation-strang-ch3-column-solvability",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-column-solvability"
         }
       },
       {
@@ -3978,8 +3560,7 @@
         ],
         "head": "row-space",
         "data": {
-          "document": "docs/derivation-strang-ch3-row-space",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-row-space"
         }
       },
       {
@@ -3991,8 +3572,7 @@
         ],
         "head": "matrix-nullspace",
         "data": {
-          "document": "docs/derivation-strang-ch3-matrix-nullspace",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-matrix-nullspace"
         }
       },
       {
@@ -4004,8 +3584,7 @@
         ],
         "head": "left-nullspace",
         "data": {
-          "document": "docs/derivation-strang-ch3-left-nullspace",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-left-nullspace"
         }
       },
       {
@@ -4017,8 +3596,7 @@
         ],
         "head": "row-echelon-form",
         "data": {
-          "document": "docs/derivation-strang-ch3-row-echelon",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-row-echelon"
         }
       },
       {
@@ -4030,8 +3608,7 @@
         ],
         "head": "reduced-row-echelon-form",
         "data": {
-          "document": "docs/derivation-strang-ch3-rref",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-rref"
         }
       },
       {
@@ -4043,8 +3620,7 @@
         ],
         "head": "pivot-column",
         "data": {
-          "document": "docs/derivation-strang-ch3-pivot-column",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-pivot-column"
         }
       },
       {
@@ -4056,8 +3632,7 @@
         ],
         "head": "free-variable",
         "data": {
-          "document": "docs/derivation-strang-ch3-free-variable",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-free-variable"
         }
       },
       {
@@ -4070,8 +3645,7 @@
         ],
         "head": "special-solution",
         "data": {
-          "document": "docs/derivation-strang-ch3-special-solution",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-special-solution"
         }
       },
       {
@@ -4085,8 +3659,7 @@
         ],
         "head": "nullspace-basis-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch3-nullspace-basis",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-nullspace-basis"
         }
       },
       {
@@ -4098,8 +3671,7 @@
         ],
         "head": "rank",
         "data": {
-          "document": "docs/derivation-strang-ch3-rank-pivots",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-rank-pivots"
         }
       },
       {
@@ -4111,8 +3683,7 @@
         ],
         "head": "particular-solution",
         "data": {
-          "document": "docs/derivation-strang-ch3-particular-solution",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-particular-solution"
         }
       },
       {
@@ -4125,8 +3696,7 @@
         ],
         "head": "complete-linear-system-solution",
         "data": {
-          "document": "docs/derivation-strang-ch3-complete-solution",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-complete-solution"
         }
       },
       {
@@ -4138,8 +3708,7 @@
         ],
         "head": "full-column-rank",
         "data": {
-          "document": "docs/derivation-strang-ch3-full-column-rank",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-full-column-rank"
         }
       },
       {
@@ -4151,8 +3720,7 @@
         ],
         "head": "full-row-rank",
         "data": {
-          "document": "docs/derivation-strang-ch3-full-row-rank",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-full-row-rank"
         }
       },
       {
@@ -4164,8 +3732,7 @@
         ],
         "head": "independence",
         "data": {
-          "document": "docs/derivation-strang-ch3-full-column-independent",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-full-column-independent"
         }
       },
       {
@@ -4179,8 +3746,7 @@
         ],
         "head": "pivot-column-basis-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch3-pivot-column-basis",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-pivot-column-basis"
         }
       },
       {
@@ -4193,8 +3759,7 @@
         ],
         "head": "row-space-basis-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch3-row-space-basis",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-row-space-basis"
         }
       },
       {
@@ -4207,8 +3772,7 @@
         ],
         "head": "left-nullspace-basis-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch3-left-nullspace-basis",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-left-nullspace-basis"
         }
       },
       {
@@ -4222,8 +3786,7 @@
         ],
         "head": "row-column-rank-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch3-row-column-rank",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-row-column-rank"
         }
       },
       {
@@ -4236,8 +3799,7 @@
         ],
         "head": "rank-nullity",
         "data": {
-          "document": "docs/derivation-strang-ch3-rank-nullity",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-rank-nullity"
         }
       },
       {
@@ -4251,8 +3813,7 @@
         ],
         "head": "left-nullity-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch3-left-nullity",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-left-nullity"
         }
       },
       {
@@ -4265,8 +3826,7 @@
         ],
         "head": "fundamental-subspaces-dimensions",
         "data": {
-          "document": "docs/derivation-strang-ch3-fundamental-dimensions",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-fundamental-dimensions"
         }
       },
       {
@@ -4280,8 +3840,7 @@
         ],
         "head": "basis-cardinality-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch3-basis-cardinality",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-basis-cardinality"
         }
       },
       {
@@ -4292,8 +3851,7 @@
         ],
         "head": "dimension",
         "data": {
-          "document": "docs/derivation-strang-ch3-dimension-def",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-dimension-def"
         }
       },
       {
@@ -4305,8 +3863,7 @@
         ],
         "head": "rank-one-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch3-rank-one",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-rank-one"
         }
       },
       {
@@ -4319,8 +3876,7 @@
         ],
         "head": "rank-factorization",
         "data": {
-          "document": "docs/derivation-strang-ch3-rank-factorization",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-rank-factorization"
         }
       },
       {
@@ -4334,8 +3890,7 @@
         ],
         "head": "matrix-product-rank-inequality",
         "data": {
-          "document": "docs/derivation-strang-ch3-product-rank",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch3-product-rank"
         }
       },
       {
@@ -4347,8 +3902,7 @@
         ],
         "head": "orthogonal-subspaces",
         "data": {
-          "document": "docs/derivation-strang-ch4-orthogonal-subspaces",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-orthogonal-subspaces"
         }
       },
       {
@@ -4365,8 +3919,7 @@
         ],
         "head": "fundamental-subspaces-orthogonality",
         "data": {
-          "document": "docs/derivation-strang-ch4-fundamental-orthogonality",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-fundamental-orthogonality"
         }
       },
       {
@@ -4378,8 +3931,7 @@
         ],
         "head": "orthogonal-complement",
         "data": {
-          "document": "docs/derivation-strang-ch4-orthogonal-complements",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-orthogonal-complements"
         }
       },
       {
@@ -4392,8 +3944,7 @@
         ],
         "head": "orthogonal-decomposition",
         "data": {
-          "document": "docs/derivation-strang-ch4-orthogonal-decomposition",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-orthogonal-decomposition"
         }
       },
       {
@@ -4406,8 +3957,7 @@
         ],
         "head": "fredholm-alternative",
         "data": {
-          "document": "docs/derivation-strang-ch4-fredholm-alternative",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-fredholm-alternative"
         }
       },
       {
@@ -4420,8 +3970,7 @@
         ],
         "head": "orthogonal-projection",
         "data": {
-          "document": "docs/derivation-strang-ch4-line-projection",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-line-projection"
         }
       },
       {
@@ -4434,8 +3983,7 @@
         ],
         "head": "projection-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch4-line-projection-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-line-projection-matrix"
         }
       },
       {
@@ -4451,8 +3999,7 @@
         ],
         "head": "projection-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch4-subspace-projection-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-subspace-projection-matrix"
         }
       },
       {
@@ -4465,8 +4012,7 @@
         ],
         "head": "least-squares-residual",
         "data": {
-          "document": "docs/derivation-strang-ch4-residual",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-residual"
         }
       },
       {
@@ -4480,8 +4026,7 @@
         ],
         "head": "ata-nullspace-equivalence",
         "data": {
-          "document": "docs/derivation-strang-ch4-ata-nullspace",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-ata-nullspace"
         }
       },
       {
@@ -4494,8 +4039,7 @@
         ],
         "head": "normal-equations",
         "data": {
-          "document": "docs/derivation-strang-ch4-normal-equations",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-normal-equations"
         }
       },
       {
@@ -4508,8 +4052,7 @@
         ],
         "head": "least-squares-solution",
         "data": {
-          "document": "docs/derivation-strang-ch4-least-squares",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-least-squares"
         }
       },
       {
@@ -4521,8 +4064,7 @@
         ],
         "head": "linear-least-squares-fit",
         "data": {
-          "document": "docs/derivation-strang-ch4-linear-fit",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-linear-fit"
         }
       },
       {
@@ -4536,8 +4078,7 @@
         ],
         "head": "orthonormal-columns",
         "data": {
-          "document": "docs/derivation-strang-ch4-orthonormal-columns",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-orthonormal-columns"
         }
       },
       {
@@ -4550,8 +4091,7 @@
         ],
         "head": "orthonormal",
         "data": {
-          "document": "docs/derivation-strang-ch4-orthonormal-basis",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-orthonormal-basis"
         }
       },
       {
@@ -4564,8 +4104,7 @@
         ],
         "head": "projection-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch4-qqt-projection",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-qqt-projection"
         }
       },
       {
@@ -4578,8 +4117,7 @@
         ],
         "head": "gram-schmidt-process",
         "data": {
-          "document": "docs/derivation-strang-ch4-gram-schmidt",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-gram-schmidt"
         }
       },
       {
@@ -4590,8 +4128,7 @@
         ],
         "head": "orthonormal",
         "data": {
-          "document": "docs/derivation-strang-ch4-gram-schmidt-orthonormal",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-gram-schmidt-orthonormal"
         }
       },
       {
@@ -4605,8 +4142,7 @@
         ],
         "head": "qr-factorization",
         "data": {
-          "document": "docs/derivation-strang-ch4-qr-factorization",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-qr-factorization"
         }
       },
       {
@@ -4619,8 +4155,7 @@
         ],
         "head": "qr-least-squares",
         "data": {
-          "document": "docs/derivation-strang-ch4-qr-least-squares",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-qr-least-squares"
         }
       },
       {
@@ -4633,8 +4168,7 @@
         ],
         "head": "reflection-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch4-reflection",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-reflection"
         }
       },
       {
@@ -4646,8 +4180,7 @@
         ],
         "head": "orthogonal-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch4-reflection-orthogonal",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch4-reflection-orthogonal"
         }
       },
       {
@@ -4662,8 +4195,7 @@
         ],
         "head": "determinant-axioms",
         "data": {
-          "document": "docs/derivation-strang-ch5-determinant-axioms",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-determinant-axioms"
         }
       },
       {
@@ -4676,8 +4208,7 @@
         ],
         "head": "determinant",
         "data": {
-          "document": "docs/derivation-strang-ch5-determinant-construction",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-determinant-construction"
         }
       },
       {
@@ -4691,8 +4222,7 @@
         ],
         "head": "determinant-pivot-formula",
         "data": {
-          "document": "docs/derivation-strang-ch5-pivot-formula",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-pivot-formula"
         }
       },
       {
@@ -4705,8 +4235,7 @@
         ],
         "head": "determinant-invertibility",
         "data": {
-          "document": "docs/derivation-strang-ch5-invertibility",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-invertibility"
         }
       },
       {
@@ -4719,8 +4248,7 @@
         ],
         "head": "determinant-product-rule",
         "data": {
-          "document": "docs/derivation-strang-ch5-product-rule",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-product-rule"
         }
       },
       {
@@ -4733,8 +4261,7 @@
         ],
         "head": "determinant-transpose-rule",
         "data": {
-          "document": "docs/derivation-strang-ch5-transpose-rule",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-transpose-rule"
         }
       },
       {
@@ -4747,8 +4274,7 @@
         ],
         "head": "permutation-parity",
         "data": {
-          "document": "docs/derivation-strang-ch5-permutation-parity",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-permutation-parity"
         }
       },
       {
@@ -4761,8 +4287,7 @@
         ],
         "head": "leibniz-determinant-formula",
         "data": {
-          "document": "docs/derivation-strang-ch5-leibniz-formula",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-leibniz-formula"
         }
       },
       {
@@ -4774,8 +4299,7 @@
         ],
         "head": "matrix-cofactor",
         "data": {
-          "document": "docs/derivation-strang-ch5-cofactor",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-cofactor"
         }
       },
       {
@@ -4787,8 +4311,7 @@
         ],
         "head": "cofactor-expansion",
         "data": {
-          "document": "docs/derivation-strang-ch5-cofactor-expansion",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-cofactor-expansion"
         }
       },
       {
@@ -4802,8 +4325,7 @@
         ],
         "head": "adjugate-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch5-adjugate",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-adjugate"
         }
       },
       {
@@ -4816,8 +4338,7 @@
         ],
         "head": "cramers-rule",
         "data": {
-          "document": "docs/derivation-strang-ch5-cramers-rule",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-cramers-rule"
         }
       },
       {
@@ -4830,8 +4351,7 @@
         ],
         "head": "determinant-volume",
         "data": {
-          "document": "docs/derivation-strang-ch5-volume",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-volume"
         }
       },
       {
@@ -4844,8 +4364,7 @@
         ],
         "head": "cross-product",
         "data": {
-          "document": "docs/derivation-strang-ch5-cross-product",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-cross-product"
         }
       },
       {
@@ -4858,8 +4377,7 @@
         ],
         "head": "scalar-triple-product",
         "data": {
-          "document": "docs/derivation-strang-ch5-triple-product",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch5-triple-product"
         }
       },
       {
@@ -4873,8 +4391,7 @@
         ],
         "head": "characteristic-equation",
         "data": {
-          "document": "docs/derivation-strang-ch6-characteristic-equation",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-characteristic-equation"
         }
       },
       {
@@ -4886,8 +4403,7 @@
         ],
         "head": "characteristic",
         "data": {
-          "document": "docs/derivation-strang-ch6-characteristic-polynomial",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-characteristic-polynomial"
         }
       },
       {
@@ -4899,8 +4415,7 @@
         ],
         "head": "eigen",
         "data": {
-          "document": "docs/derivation-strang-ch6-eigenvalue",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-eigenvalue"
         }
       },
       {
@@ -4912,8 +4427,7 @@
         ],
         "head": "eigenvector",
         "data": {
-          "document": "docs/derivation-strang-ch6-eigenvector",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-eigenvector"
         }
       },
       {
@@ -4926,8 +4440,7 @@
         ],
         "head": "eigenspace",
         "data": {
-          "document": "docs/derivation-strang-ch6-eigenspace",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-eigenspace"
         }
       },
       {
@@ -4941,8 +4454,7 @@
         ],
         "head": "eigenvalue-spectral-mapping",
         "data": {
-          "document": "docs/derivation-strang-ch6-spectral-mapping",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-spectral-mapping"
         }
       },
       {
@@ -4955,8 +4467,7 @@
         ],
         "head": "gershgorin-circle-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch6-gershgorin",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-gershgorin"
         }
       },
       {
@@ -4970,8 +4481,7 @@
         ],
         "head": "diagonalizability-criterion",
         "data": {
-          "document": "docs/derivation-strang-ch6-diagonalizability",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-diagonalizability"
         }
       },
       {
@@ -4983,8 +4493,7 @@
         ],
         "head": "diagonalization",
         "data": {
-          "document": "docs/derivation-strang-ch6-diagonalization",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-diagonalization"
         }
       },
       {
@@ -4998,8 +4507,7 @@
         ],
         "head": "similar-matrices",
         "data": {
-          "document": "docs/derivation-strang-ch6-similarity",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-similarity"
         }
       },
       {
@@ -5011,8 +4519,7 @@
         ],
         "head": "algebraic-multiplicity",
         "data": {
-          "document": "docs/derivation-strang-ch6-algebraic-multiplicity",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-algebraic-multiplicity"
         }
       },
       {
@@ -5024,8 +4531,7 @@
         ],
         "head": "geometric-multiplicity",
         "data": {
-          "document": "docs/derivation-strang-ch6-geometric-multiplicity",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-geometric-multiplicity"
         }
       },
       {
@@ -5038,8 +4544,7 @@
         ],
         "head": "diagonalization",
         "data": {
-          "document": "docs/derivation-strang-ch6-multiplicity-diagonalizable",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-multiplicity-diagonalizable"
         }
       },
       {
@@ -5052,8 +4557,7 @@
         ],
         "head": "discrete-linear-dynamics",
         "data": {
-          "document": "docs/derivation-strang-ch6-discrete-dynamics",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-discrete-dynamics"
         }
       },
       {
@@ -5066,8 +4570,7 @@
         ],
         "head": "continuous-linear-system",
         "data": {
-          "document": "docs/derivation-strang-ch6-continuous-system",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-continuous-system"
         }
       },
       {
@@ -5081,8 +4584,7 @@
         ],
         "head": "matrix-exponential",
         "data": {
-          "document": "docs/derivation-strang-ch6-matrix-exponential",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-matrix-exponential"
         }
       },
       {
@@ -5095,8 +4597,7 @@
         ],
         "head": "continuous-stability",
         "data": {
-          "document": "docs/derivation-strang-ch6-stability",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-stability"
         }
       },
       {
@@ -5110,8 +4611,7 @@
         ],
         "head": "schur-decomposition",
         "data": {
-          "document": "docs/derivation-strang-ch6-schur",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-schur"
         }
       },
       {
@@ -5125,8 +4625,7 @@
         ],
         "head": "spectral-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch6-spectral-theorem",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-spectral-theorem"
         }
       },
       {
@@ -5138,8 +4637,7 @@
         ],
         "head": "positive-definite-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch6-positive-definite",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-positive-definite"
         }
       },
       {
@@ -5151,8 +4649,7 @@
         ],
         "head": "positive-semidefinite-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch6-positive-semidefinite",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-positive-semidefinite"
         }
       },
       {
@@ -5168,8 +4665,7 @@
         ],
         "head": "positive-definite-equivalences",
         "data": {
-          "document": "docs/derivation-strang-ch6-positive-equivalences",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-positive-equivalences"
         }
       },
       {
@@ -5181,8 +4677,7 @@
         ],
         "head": "cholesky-factorization",
         "data": {
-          "document": "docs/derivation-strang-ch6-cholesky",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-cholesky"
         }
       },
       {
@@ -5196,8 +4691,7 @@
         ],
         "head": "rayleigh-quotient",
         "data": {
-          "document": "docs/derivation-strang-ch6-rayleigh",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-rayleigh"
         }
       },
       {
@@ -5210,8 +4704,7 @@
         ],
         "head": "trace",
         "data": {
-          "document": "docs/derivation-strang-ch6-trace",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-trace"
         }
       },
       {
@@ -5224,8 +4717,7 @@
         ],
         "head": "cayley-hamilton",
         "data": {
-          "document": "docs/derivation-strang-ch6-cayley-hamilton",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-cayley-hamilton"
         }
       },
       {
@@ -5237,8 +4729,7 @@
         ],
         "head": "quadratic-form",
         "data": {
-          "document": "docs/derivation-strang-ch6-quadratic-form",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch6-quadratic-form"
         }
       },
       {
@@ -5252,8 +4743,7 @@
         ],
         "head": "right-singular-vector",
         "data": {
-          "document": "docs/derivation-strang-ch7-right-singular",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-right-singular"
         }
       },
       {
@@ -5266,8 +4756,7 @@
         ],
         "head": "left-singular-vector",
         "data": {
-          "document": "docs/derivation-strang-ch7-left-singular",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-left-singular"
         }
       },
       {
@@ -5279,8 +4768,7 @@
         ],
         "head": "singular-value",
         "data": {
-          "document": "docs/derivation-strang-ch7-singular-values",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-singular-values"
         }
       },
       {
@@ -5296,8 +4784,7 @@
         ],
         "head": "svd",
         "data": {
-          "document": "docs/derivation-strang-ch7-svd",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-svd"
         }
       },
       {
@@ -5310,8 +4797,7 @@
         ],
         "head": "svd-subspace-bases",
         "data": {
-          "document": "docs/derivation-strang-ch7-subspace-bases",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-subspace-bases"
         }
       },
       {
@@ -5323,8 +4809,7 @@
         ],
         "head": "truncated-svd",
         "data": {
-          "document": "docs/derivation-strang-ch7-truncated",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-truncated"
         }
       },
       {
@@ -5336,8 +4821,7 @@
         ],
         "head": "effective-rank",
         "data": {
-          "document": "docs/derivation-strang-ch7-effective-rank",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-effective-rank"
         }
       },
       {
@@ -5350,8 +4834,7 @@
         ],
         "head": "matrix-2-norm",
         "data": {
-          "document": "docs/derivation-strang-ch7-matrix-norm",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-matrix-norm"
         }
       },
       {
@@ -5364,8 +4847,7 @@
         ],
         "head": "eckart-young-mirsky",
         "data": {
-          "document": "docs/derivation-strang-ch7-eckart-young",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-eckart-young"
         }
       },
       {
@@ -5378,8 +4860,7 @@
         ],
         "head": "polar-decomposition",
         "data": {
-          "document": "docs/derivation-strang-ch7-polar",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-polar"
         }
       },
       {
@@ -5394,8 +4875,7 @@
         ],
         "head": "pseudoinverse",
         "data": {
-          "document": "docs/derivation-strang-ch7-pseudoinverse",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-pseudoinverse"
         }
       },
       {
@@ -5408,8 +4888,7 @@
         ],
         "head": "data-centering",
         "data": {
-          "document": "docs/derivation-strang-ch7-data-centering",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-data-centering"
         }
       },
       {
@@ -5422,8 +4901,7 @@
         ],
         "head": "sample-covariance-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch7-covariance",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-covariance"
         }
       },
       {
@@ -5437,8 +4915,7 @@
         ],
         "head": "principal-component-analysis",
         "data": {
-          "document": "docs/derivation-strang-ch7-pca",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-pca"
         }
       },
       {
@@ -5451,8 +4928,7 @@
         ],
         "head": "explained-variance",
         "data": {
-          "document": "docs/derivation-strang-ch7-explained-variance",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch7-explained-variance"
         }
       },
       {
@@ -5464,8 +4940,7 @@
         ],
         "head": "linear-map",
         "data": {
-          "document": "docs/derivation-strang-ch8-matrix-linear-map",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-matrix-linear-map"
         }
       },
       {
@@ -5477,8 +4952,7 @@
         ],
         "head": "affine-transformation",
         "data": {
-          "document": "docs/derivation-strang-ch8-affine",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-affine"
         }
       },
       {
@@ -5489,8 +4963,7 @@
         ],
         "head": "linear-map-composition",
         "data": {
-          "document": "docs/derivation-strang-ch8-composition",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-composition"
         }
       },
       {
@@ -5502,8 +4975,7 @@
         ],
         "head": "polynomial-derivative-operator",
         "data": {
-          "document": "docs/derivation-strang-ch8-derivative",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-derivative"
         }
       },
       {
@@ -5515,8 +4987,7 @@
         ],
         "head": "polynomial-integration-operator",
         "data": {
-          "document": "docs/derivation-strang-ch8-integration",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-integration"
         }
       },
       {
@@ -5530,8 +5001,7 @@
         ],
         "head": "pseudoinverse",
         "data": {
-          "document": "docs/derivation-strang-ch8-calculus-pseudoinverse",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-calculus-pseudoinverse"
         }
       },
       {
@@ -5544,8 +5014,7 @@
         ],
         "head": "matrix",
         "data": {
-          "document": "docs/derivation-strang-ch8-matrix-representation",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-matrix-representation"
         }
       },
       {
@@ -5559,8 +5028,7 @@
         ],
         "head": "change-of-basis",
         "data": {
-          "document": "docs/derivation-strang-ch8-change-basis",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-change-basis"
         }
       },
       {
@@ -5572,8 +5040,7 @@
         ],
         "head": "matrix-multiplication",
         "data": {
-          "document": "docs/derivation-strang-ch8-composition-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-composition-matrix"
         }
       },
       {
@@ -5586,8 +5053,7 @@
         ],
         "head": "generalized-eigenvector",
         "data": {
-          "document": "docs/derivation-strang-ch8-generalized-eigenvector",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-generalized-eigenvector"
         }
       },
       {
@@ -5600,8 +5066,7 @@
         ],
         "head": "jordan-block",
         "data": {
-          "document": "docs/derivation-strang-ch8-jordan-block",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-jordan-block"
         }
       },
       {
@@ -5614,8 +5079,7 @@
         ],
         "head": "jordan",
         "data": {
-          "document": "docs/derivation-strang-ch8-jordan-basis",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-jordan-basis"
         }
       },
       {
@@ -5628,8 +5092,7 @@
         ],
         "head": "jordan-form",
         "data": {
-          "document": "docs/derivation-strang-ch8-jordan-form",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-jordan-form"
         }
       },
       {
@@ -5641,8 +5104,7 @@
         ],
         "head": "function-inner-product",
         "data": {
-          "document": "docs/derivation-strang-ch8-function-inner-product",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-function-inner-product"
         }
       },
       {
@@ -5655,8 +5117,7 @@
         ],
         "head": "fourier-basis",
         "data": {
-          "document": "docs/derivation-strang-ch8-fourier-basis",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-fourier-basis"
         }
       },
       {
@@ -5669,8 +5130,7 @@
         ],
         "head": "circulant-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch8-circulant",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-circulant"
         }
       },
       {
@@ -5683,8 +5143,7 @@
         ],
         "head": "diagonalization",
         "data": {
-          "document": "docs/derivation-strang-ch8-fourier-diagonalizes",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-fourier-diagonalizes"
         }
       },
       {
@@ -5697,8 +5156,7 @@
         ],
         "head": "legendre-polynomials",
         "data": {
-          "document": "docs/derivation-strang-ch8-legendre",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-legendre"
         }
       },
       {
@@ -5710,8 +5168,7 @@
         ],
         "head": "chebyshev-polynomials",
         "data": {
-          "document": "docs/derivation-strang-ch8-chebyshev",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch8-chebyshev"
         }
       },
       {
@@ -5723,8 +5180,7 @@
         ],
         "head": "complex-number",
         "data": {
-          "document": "docs/derivation-strang-ch9-complex-number",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-complex-number"
         }
       },
       {
@@ -5735,8 +5191,7 @@
         ],
         "head": "complex-conjugate",
         "data": {
-          "document": "docs/derivation-strang-ch9-conjugate",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-conjugate"
         }
       },
       {
@@ -5749,8 +5204,7 @@
         ],
         "head": "complex-polar-form",
         "data": {
-          "document": "docs/derivation-strang-ch9-polar",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-polar"
         }
       },
       {
@@ -5762,8 +5216,7 @@
         ],
         "head": "roots-of-unity",
         "data": {
-          "document": "docs/derivation-strang-ch9-roots-unity",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-roots-unity"
         }
       },
       {
@@ -5776,8 +5229,7 @@
         ],
         "head": "conjugate-transpose",
         "data": {
-          "document": "docs/derivation-strang-ch9-conjugate-transpose",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-conjugate-transpose"
         }
       },
       {
@@ -5790,8 +5242,7 @@
         ],
         "head": "complex-inner-product-second-linear",
         "data": {
-          "document": "docs/derivation-strang-ch9-complex-inner-product",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-complex-inner-product"
         }
       },
       {
@@ -5803,8 +5254,7 @@
         ],
         "head": "hermitian-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch9-hermitian",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-hermitian"
         }
       },
       {
@@ -5818,8 +5268,7 @@
         ],
         "head": "hermitian-spectral-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch9-hermitian-spectral",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-hermitian-spectral"
         }
       },
       {
@@ -5832,8 +5281,7 @@
         ],
         "head": "unitary-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch9-unitary",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-unitary"
         }
       },
       {
@@ -5846,8 +5294,7 @@
         ],
         "head": "skew-hermitian-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch9-skew-hermitian",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-skew-hermitian"
         }
       },
       {
@@ -5860,8 +5307,7 @@
         ],
         "head": "normal-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch9-normal",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-normal"
         }
       },
       {
@@ -5874,8 +5320,7 @@
         ],
         "head": "fourier-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch9-fourier-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-fourier-matrix"
         }
       },
       {
@@ -5888,8 +5333,7 @@
         ],
         "head": "discrete-fourier-transform",
         "data": {
-          "document": "docs/derivation-strang-ch9-dft",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-dft"
         }
       },
       {
@@ -5903,8 +5347,7 @@
         ],
         "head": "fast-fourier-transform",
         "data": {
-          "document": "docs/derivation-strang-ch9-fft",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch9-fft"
         }
       },
       {
@@ -5915,8 +5358,7 @@
         ],
         "head": "graph",
         "data": {
-          "document": "docs/derivation-strang-ch10-graph",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-graph"
         }
       },
       {
@@ -5929,8 +5371,7 @@
         ],
         "head": "incidence-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch10-incidence",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-incidence"
         }
       },
       {
@@ -5943,8 +5384,7 @@
         ],
         "head": "spanning-tree",
         "data": {
-          "document": "docs/derivation-strang-ch10-spanning-tree",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-spanning-tree"
         }
       },
       {
@@ -5957,8 +5397,7 @@
         ],
         "head": "graph-cycle-space",
         "data": {
-          "document": "docs/derivation-strang-ch10-cycle-space",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-cycle-space"
         }
       },
       {
@@ -5972,8 +5411,7 @@
         ],
         "head": "kirchhoff-voltage-law",
         "data": {
-          "document": "docs/derivation-strang-ch10-kvl",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-kvl"
         }
       },
       {
@@ -5986,8 +5424,7 @@
         ],
         "head": "kirchhoff-current-law",
         "data": {
-          "document": "docs/derivation-strang-ch10-kcl",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-kcl"
         }
       },
       {
@@ -6001,8 +5438,7 @@
         ],
         "head": "graph-laplacian",
         "data": {
-          "document": "docs/derivation-strang-ch10-laplacian",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-laplacian"
         }
       },
       {
@@ -6016,8 +5452,7 @@
         ],
         "head": "weighted-network-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch10-weighted-network",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-weighted-network"
         }
       },
       {
@@ -6030,8 +5465,7 @@
         ],
         "head": "finite-difference-discretization",
         "data": {
-          "document": "docs/derivation-strang-ch10-finite-difference",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-finite-difference"
         }
       },
       {
@@ -6044,8 +5478,7 @@
         ],
         "head": "stiffness-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch10-stiffness",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-stiffness"
         }
       },
       {
@@ -6058,8 +5491,7 @@
         ],
         "head": "markov-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch10-markov",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-markov"
         }
       },
       {
@@ -6072,8 +5504,7 @@
         ],
         "head": "stationary-distribution",
         "data": {
-          "document": "docs/derivation-strang-ch10-stationary",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-stationary"
         }
       },
       {
@@ -6086,8 +5517,7 @@
         ],
         "head": "perron-frobenius-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch10-perron-frobenius",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-perron-frobenius"
         }
       },
       {
@@ -6100,8 +5530,7 @@
         ],
         "head": "leslie-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch10-leslie",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-leslie"
         }
       },
       {
@@ -6114,8 +5543,7 @@
         ],
         "head": "matrix-geometric-series",
         "data": {
-          "document": "docs/derivation-strang-ch10-geometric-series",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-geometric-series"
         }
       },
       {
@@ -6128,8 +5556,7 @@
         ],
         "head": "leontief-input-output-model",
         "data": {
-          "document": "docs/derivation-strang-ch10-leontief",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-leontief"
         }
       },
       {
@@ -6142,8 +5569,7 @@
         ],
         "head": "linear-program",
         "data": {
-          "document": "docs/derivation-strang-ch10-linear-program",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-linear-program"
         }
       },
       {
@@ -6156,8 +5582,7 @@
         ],
         "head": "linear-program-feasible-set",
         "data": {
-          "document": "docs/derivation-strang-ch10-feasible-set",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-feasible-set"
         }
       },
       {
@@ -6170,8 +5595,7 @@
         ],
         "head": "linear-program-duality",
         "data": {
-          "document": "docs/derivation-strang-ch10-duality",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-duality"
         }
       },
       {
@@ -6185,8 +5609,7 @@
         ],
         "head": "simplex-method",
         "data": {
-          "document": "docs/derivation-strang-ch10-simplex",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-simplex"
         }
       },
       {
@@ -6199,8 +5622,7 @@
         ],
         "head": "interior-point-method",
         "data": {
-          "document": "docs/derivation-strang-ch10-interior-point",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-interior-point"
         }
       },
       {
@@ -6213,8 +5635,7 @@
         ],
         "head": "hilbert-space",
         "data": {
-          "document": "docs/derivation-strang-ch10-hilbert-space",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-hilbert-space"
         }
       },
       {
@@ -6227,8 +5648,7 @@
         ],
         "head": "fourier-series",
         "data": {
-          "document": "docs/derivation-strang-ch10-fourier-series",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-fourier-series"
         }
       },
       {
@@ -6241,8 +5661,7 @@
         ],
         "head": "fourier-coefficients",
         "data": {
-          "document": "docs/derivation-strang-ch10-fourier-coefficients",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-fourier-coefficients"
         }
       },
       {
@@ -6255,8 +5674,7 @@
         ],
         "head": "parseval-identity",
         "data": {
-          "document": "docs/derivation-strang-ch10-parseval",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-parseval"
         }
       },
       {
@@ -6269,8 +5687,7 @@
         ],
         "head": "homogeneous-coordinates",
         "data": {
-          "document": "docs/derivation-strang-ch10-homogeneous-coordinates",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-homogeneous-coordinates"
         }
       },
       {
@@ -6283,8 +5700,7 @@
         ],
         "head": "projective-space",
         "data": {
-          "document": "docs/derivation-strang-ch10-projective-space",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-projective-space"
         }
       },
       {
@@ -6296,8 +5712,7 @@
         ],
         "head": "modular-arithmetic",
         "data": {
-          "document": "docs/derivation-strang-ch10-modular",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-modular"
         }
       },
       {
@@ -6309,8 +5724,7 @@
         ],
         "head": "finite-field",
         "data": {
-          "document": "docs/derivation-strang-ch10-finite-field",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-finite-field"
         }
       },
       {
@@ -6324,8 +5738,7 @@
         ],
         "head": "hill-cipher",
         "data": {
-          "document": "docs/derivation-strang-ch10-hill-cipher",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch10-hill-cipher"
         }
       },
       {
@@ -6337,8 +5750,7 @@
         ],
         "head": "floating-point-roundoff",
         "data": {
-          "document": "docs/derivation-strang-ch11-roundoff",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-roundoff"
         }
       },
       {
@@ -6352,8 +5764,7 @@
         ],
         "head": "partial-pivoting",
         "data": {
-          "document": "docs/derivation-strang-ch11-partial-pivoting",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-partial-pivoting"
         }
       },
       {
@@ -6365,8 +5776,7 @@
         ],
         "head": "sparse-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch11-sparse",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-sparse"
         }
       },
       {
@@ -6379,8 +5789,7 @@
         ],
         "head": "elimination-fill-in",
         "data": {
-          "document": "docs/derivation-strang-ch11-fill-in",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-fill-in"
         }
       },
       {
@@ -6393,8 +5802,7 @@
         ],
         "head": "flop-complexity",
         "data": {
-          "document": "docs/derivation-strang-ch11-flops",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-flops"
         }
       },
       {
@@ -6407,8 +5815,7 @@
         ],
         "head": "givens-rotation",
         "data": {
-          "document": "docs/derivation-strang-ch11-givens",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-givens"
         }
       },
       {
@@ -6421,8 +5828,7 @@
         ],
         "head": "orthonormal-columns",
         "data": {
-          "document": "docs/derivation-strang-ch11-householder-qr",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-householder-qr"
         }
       },
       {
@@ -6436,8 +5842,7 @@
         ],
         "head": "condition-number",
         "data": {
-          "document": "docs/derivation-strang-ch11-condition-number",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-condition-number"
         }
       },
       {
@@ -6450,8 +5855,7 @@
         ],
         "head": "spectral-radius",
         "data": {
-          "document": "docs/derivation-strang-ch11-spectral-radius",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-spectral-radius"
         }
       },
       {
@@ -6464,8 +5868,7 @@
         ],
         "head": "stationary-linear-iteration",
         "data": {
-          "document": "docs/derivation-strang-ch11-stationary-iteration",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-stationary-iteration"
         }
       },
       {
@@ -6478,8 +5881,7 @@
         ],
         "head": "preconditioner",
         "data": {
-          "document": "docs/derivation-strang-ch11-preconditioner",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-preconditioner"
         }
       },
       {
@@ -6491,8 +5893,7 @@
         ],
         "head": "jacobi-method",
         "data": {
-          "document": "docs/derivation-strang-ch11-jacobi",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-jacobi"
         }
       },
       {
@@ -6505,8 +5906,7 @@
         ],
         "head": "gauss-seidel-method",
         "data": {
-          "document": "docs/derivation-strang-ch11-gauss-seidel",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-gauss-seidel"
         }
       },
       {
@@ -6520,8 +5920,7 @@
         ],
         "head": "incomplete-lu",
         "data": {
-          "document": "docs/derivation-strang-ch11-ilu",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-ilu"
         }
       },
       {
@@ -6534,8 +5933,7 @@
         ],
         "head": "krylov-subspace",
         "data": {
-          "document": "docs/derivation-strang-ch11-krylov",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-krylov"
         }
       },
       {
@@ -6549,8 +5947,7 @@
         ],
         "head": "conjugate-gradient-method",
         "data": {
-          "document": "docs/derivation-strang-ch11-cg",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-cg"
         }
       },
       {
@@ -6563,8 +5960,7 @@
         ],
         "head": "arnoldi-iteration",
         "data": {
-          "document": "docs/derivation-strang-ch11-arnoldi",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-arnoldi"
         }
       },
       {
@@ -6577,8 +5973,7 @@
         ],
         "head": "lanczos-iteration",
         "data": {
-          "document": "docs/derivation-strang-ch11-lanczos",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-lanczos"
         }
       },
       {
@@ -6591,8 +5986,7 @@
         ],
         "head": "power-method",
         "data": {
-          "document": "docs/derivation-strang-ch11-power-method",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-power-method"
         }
       },
       {
@@ -6605,8 +5999,7 @@
         ],
         "head": "inverse-power-method",
         "data": {
-          "document": "docs/derivation-strang-ch11-inverse-power",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-inverse-power"
         }
       },
       {
@@ -6620,8 +6013,7 @@
         ],
         "head": "qr-eigenvalue-algorithm",
         "data": {
-          "document": "docs/derivation-strang-ch11-qr-eigen",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-qr-eigen"
         }
       },
       {
@@ -6633,8 +6025,7 @@
         ],
         "head": "preconditioned-conjugate-gradient",
         "data": {
-          "document": "docs/derivation-strang-ch11-preconditioned-cg",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch11-preconditioned-cg"
         }
       },
       {
@@ -6646,8 +6037,7 @@
         ],
         "head": "probability-distribution",
         "data": {
-          "document": "docs/derivation-strang-ch12-probability-distribution",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-probability-distribution"
         }
       },
       {
@@ -6659,8 +6049,7 @@
         ],
         "head": "random-variable",
         "data": {
-          "document": "docs/derivation-strang-ch12-random-variable",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-random-variable"
         }
       },
       {
@@ -6672,8 +6061,7 @@
         ],
         "head": "sample-mean",
         "data": {
-          "document": "docs/derivation-strang-ch12-sample-mean",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-sample-mean"
         }
       },
       {
@@ -6686,8 +6074,7 @@
         ],
         "head": "expected-value",
         "data": {
-          "document": "docs/derivation-strang-ch12-expectation",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-expectation"
         }
       },
       {
@@ -6699,8 +6086,7 @@
         ],
         "head": "sample-variance",
         "data": {
-          "document": "docs/derivation-strang-ch12-sample-variance",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-sample-variance"
         }
       },
       {
@@ -6712,8 +6098,7 @@
         ],
         "head": "population-variance",
         "data": {
-          "document": "docs/derivation-strang-ch12-population-variance",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-population-variance"
         }
       },
       {
@@ -6724,8 +6109,7 @@
         ],
         "head": "standard-deviation",
         "data": {
-          "document": "docs/derivation-strang-ch12-standard-deviation",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-standard-deviation"
         }
       },
       {
@@ -6737,8 +6121,7 @@
         ],
         "head": "probability-density",
         "data": {
-          "document": "docs/derivation-strang-ch12-density",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-density"
         }
       },
       {
@@ -6750,8 +6133,7 @@
         ],
         "head": "cumulative-distribution",
         "data": {
-          "document": "docs/derivation-strang-ch12-cdf",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-cdf"
         }
       },
       {
@@ -6765,8 +6147,7 @@
         ],
         "head": "normal-distribution",
         "data": {
-          "document": "docs/derivation-strang-ch12-normal",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-normal"
         }
       },
       {
@@ -6779,8 +6160,7 @@
         ],
         "head": "law-of-large-numbers",
         "data": {
-          "document": "docs/derivation-strang-ch12-lln",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-lln"
         }
       },
       {
@@ -6793,8 +6173,7 @@
         ],
         "head": "central-limit-theorem",
         "data": {
-          "document": "docs/derivation-strang-ch12-clt",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-clt"
         }
       },
       {
@@ -6807,8 +6186,7 @@
         ],
         "head": "monte-carlo-estimation",
         "data": {
-          "document": "docs/derivation-strang-ch12-monte-carlo",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-monte-carlo"
         }
       },
       {
@@ -6821,8 +6199,7 @@
         ],
         "head": "joint-probability-distribution",
         "data": {
-          "document": "docs/derivation-strang-ch12-joint",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-joint"
         }
       },
       {
@@ -6835,8 +6212,7 @@
         ],
         "head": "covariance",
         "data": {
-          "document": "docs/derivation-strang-ch12-covariance",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-covariance"
         }
       },
       {
@@ -6849,8 +6225,7 @@
         ],
         "head": "covariance-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch12-covariance-matrix",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-covariance-matrix"
         }
       },
       {
@@ -6863,8 +6238,7 @@
         ],
         "head": "correlation-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch12-correlation",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-correlation"
         }
       },
       {
@@ -6876,8 +6250,7 @@
         ],
         "head": "conditional-probability",
         "data": {
-          "document": "docs/derivation-strang-ch12-conditional",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-conditional"
         }
       },
       {
@@ -6891,8 +6264,7 @@
         ],
         "head": "multivariate-normal-distribution",
         "data": {
-          "document": "docs/derivation-strang-ch12-multivariate-normal",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-multivariate-normal"
         }
       },
       {
@@ -6906,8 +6278,7 @@
         ],
         "head": "weighted-least-squares",
         "data": {
-          "document": "docs/derivation-strang-ch12-weighted-ls",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-weighted-ls"
         }
       },
       {
@@ -6920,8 +6291,7 @@
         ],
         "head": "best-linear-unbiased-estimator",
         "data": {
-          "document": "docs/derivation-strang-ch12-blue",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-blue"
         }
       },
       {
@@ -6934,8 +6304,7 @@
         ],
         "head": "kalman-filter",
         "data": {
-          "document": "docs/derivation-strang-ch12-kalman",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-kalman"
         }
       },
       {
@@ -6948,8 +6317,7 @@
         ],
         "head": "sherman-morrison-formula",
         "data": {
-          "document": "docs/derivation-strang-ch12-sherman-morrison",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-sherman-morrison"
         }
       },
       {
@@ -6962,8 +6330,7 @@
         ],
         "head": "sample-covariance-matrix",
         "data": {
-          "document": "docs/derivation-strang-ch12-sample-covariance",
-          "format": "markdown"
+          "document": "docs/derivation-strang-ch12-sample-covariance"
         }
       }
     ]
