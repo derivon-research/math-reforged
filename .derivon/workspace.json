@@ -1,5 +1,5 @@
 {
-  "schema": "derivon.authoring/v0.3.0",
+  "schema": "derivon.workspace/v1",
   "document": {
     "description": "融合 Sheldon Axler《线性代数应该这样学（第四版）》与 Gilbert Strang《Introduction to Linear Algebra（第五版）》的非线性知识图。统一概念身份，保留来源作用域与平行推导路线。",
     "title": "线性代数多教材概念与推导图"
@@ -6967,8 +6967,5 @@
         }
       }
     ]
-  },
-  "view": {
-    "replacements": []
   }
 }
